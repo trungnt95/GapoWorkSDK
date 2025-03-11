@@ -9,23 +9,24 @@
 /* Begin PBXBuildFile section */
 		795BD1E8DFEC9C7F775E8CD1 /* Pods_DemoApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11108CA80E72C884C3A8F772 /* Pods_DemoApp.framework */; };
 		9301B81C2D7FDEFE001BBFBA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9301B81B2D7FDEFE001BBFBA /* AppDelegate.swift */; };
-		9301B81E2D7FDEFE001BBFBA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9301B81D2D7FDEFE001BBFBA /* SceneDelegate.swift */; };
 		9301B8202D7FDEFE001BBFBA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9301B81F2D7FDEFE001BBFBA /* ViewController.swift */; };
 		9301B8232D7FDEFE001BBFBA /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 9301B8222D7FDEFE001BBFBA /* Base */; };
 		9301B8252D7FDEFF001BBFBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9301B8242D7FDEFF001BBFBA /* Assets.xcassets */; };
 		9301B8282D7FDEFF001BBFBA /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 9301B8272D7FDEFF001BBFBA /* Base */; };
+		9301D0802D8048BB001BBFBA /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9301D07F2D8048BB001BBFBA /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		11108CA80E72C884C3A8F772 /* Pods_DemoApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DemoApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9301B8182D7FDEFE001BBFBA /* DemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9301B81B2D7FDEFE001BBFBA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		9301B81D2D7FDEFE001BBFBA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		9301B81F2D7FDEFE001BBFBA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		9301B8222D7FDEFE001BBFBA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9301B8242D7FDEFF001BBFBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9301B8272D7FDEFF001BBFBA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9301B8292D7FDEFF001BBFBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9301D07E2D804860001BBFBA /* DemoApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DemoApp.entitlements; sourceTree = "<group>"; };
+		9301D07F2D8048BB001BBFBA /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = SOURCE_ROOT; };
 		9D0364796C588550EBF843B4 /* Pods-DemoApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemoApp.debug.xcconfig"; path = "Target Support Files/Pods-DemoApp/Pods-DemoApp.debug.xcconfig"; sourceTree = "<group>"; };
 		D086E3652ED656AE0C519807 /* Pods-DemoApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemoApp.release.xcconfig"; path = "Target Support Files/Pods-DemoApp/Pods-DemoApp.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -63,13 +64,14 @@
 		9301B81A2D7FDEFE001BBFBA /* DemoApp */ = {
 			isa = PBXGroup;
 			children = (
+				9301D07E2D804860001BBFBA /* DemoApp.entitlements */,
 				9301B81B2D7FDEFE001BBFBA /* AppDelegate.swift */,
-				9301B81D2D7FDEFE001BBFBA /* SceneDelegate.swift */,
 				9301B81F2D7FDEFE001BBFBA /* ViewController.swift */,
 				9301B8212D7FDEFE001BBFBA /* Main.storyboard */,
 				9301B8242D7FDEFF001BBFBA /* Assets.xcassets */,
 				9301B8262D7FDEFF001BBFBA /* LaunchScreen.storyboard */,
 				9301B8292D7FDEFF001BBFBA /* Info.plist */,
+				9301D07F2D8048BB001BBFBA /* GoogleService-Info.plist */,
 			);
 			path = DemoApp;
 			sourceTree = "<group>";
@@ -152,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9301B8252D7FDEFF001BBFBA /* Assets.xcassets in Resources */,
+				9301D0802D8048BB001BBFBA /* GoogleService-Info.plist in Resources */,
 				9301B8282D7FDEFF001BBFBA /* Base in Resources */,
 				9301B8232D7FDEFE001BBFBA /* Base in Resources */,
 			);
@@ -208,7 +211,6 @@
 			files = (
 				9301B8202D7FDEFE001BBFBA /* ViewController.swift in Sources */,
 				9301B81C2D7FDEFE001BBFBA /* AppDelegate.swift in Sources */,
-				9301B81E2D7FDEFE001BBFBA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,7 +288,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -343,7 +345,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -359,23 +361,38 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = DemoApp/DemoApp.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 637969XVJN;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DemoApp/Info.plist;
+				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "Cho phép chúng tôi sử dụng Bluetooth để tham gia các cuộc họp trực tuyến";
+				INFOPLIST_KEY_NSBluetoothPeripheralUsageDescription = "Điều này cho phép bạn quay video có âm thanh, thực hiện cuộc gọi thoại và video v.v.";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Điều này cho phép bạn chụp ảnh, thực hiện cuộc gọi video và v.v. trong ứng dụng";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Cho phép ứng dụng truy cập vị trí của bạn để chấm công (Allow our application access your location for timekeeping)";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "Cho phép ứng dụng truy cập vị trí của bạn để chấm công (Allow our application access your location for timekeeping)";
+				INFOPLIST_KEY_NSLocationUsageDescription = "Cho phép ứng dụng truy cập vị trí của bạn để chấm công (Allow our application access your location for timekeeping)";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Cho phép ứng dụng truy cập vị trí của bạn để chấm công (Allow our application access your location for timekeeping)";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Điều này cho phép bạn quay video có âm thanh, thực hiện cuộc gọi thoại và video v.v.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Sử dụng thư viện ảnh để chọn ảnh thay ảnh đại diện, ảnh bìa, đăng bài lên dòng thời gian";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Cho phép chúng tôi định danh bạn khi chat với mọi người, đồng thời giúp chúng tôi đưa đến cho bạn các nội dung phù hợp, được cá nhân hóa.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleLightContent;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportsDocumentBrowser = YES;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.gaposdk.DemoApp;
+				PRODUCT_BUNDLE_IDENTIFIER = gapo.work.vn.sdk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -389,23 +406,38 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = DemoApp/DemoApp.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 637969XVJN;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DemoApp/Info.plist;
+				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "Cho phép chúng tôi sử dụng Bluetooth để tham gia các cuộc họp trực tuyến";
+				INFOPLIST_KEY_NSBluetoothPeripheralUsageDescription = "Điều này cho phép bạn quay video có âm thanh, thực hiện cuộc gọi thoại và video v.v.";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Điều này cho phép bạn chụp ảnh, thực hiện cuộc gọi video và v.v. trong ứng dụng";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Cho phép ứng dụng truy cập vị trí của bạn để chấm công (Allow our application access your location for timekeeping)";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "Cho phép ứng dụng truy cập vị trí của bạn để chấm công (Allow our application access your location for timekeeping)";
+				INFOPLIST_KEY_NSLocationUsageDescription = "Cho phép ứng dụng truy cập vị trí của bạn để chấm công (Allow our application access your location for timekeeping)";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Cho phép ứng dụng truy cập vị trí của bạn để chấm công (Allow our application access your location for timekeeping)";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Điều này cho phép bạn quay video có âm thanh, thực hiện cuộc gọi thoại và video v.v.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Sử dụng thư viện ảnh để chọn ảnh thay ảnh đại diện, ảnh bìa, đăng bài lên dòng thời gian";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Cho phép chúng tôi định danh bạn khi chat với mọi người, đồng thời giúp chúng tôi đưa đến cho bạn các nội dung phù hợp, được cá nhân hóa.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleLightContent;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportsDocumentBrowser = YES;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.gaposdk.DemoApp;
+				PRODUCT_BUNDLE_IDENTIFIER = gapo.work.vn.sdk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;

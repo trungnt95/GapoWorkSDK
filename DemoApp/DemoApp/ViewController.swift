@@ -10,22 +10,34 @@ import GapoSDK
 
 class ViewController: UIViewController {
     
-    @IBOutlet weak var imageView: UIImageView!
+    @IBOutlet weak var label: UILabel!
+    @IBOutlet weak var openChatButton: UIButton!
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-        
-        GapoWorkSDK.shared.test()
+        openChatButton.isHidden = true
     }
-    
+
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-        let urlString = "https://image-1.gapowork.vn/images/38a30628-74ac-465c-b4c8-e2ff159daf7b/blob.jpeg"
-        GapoWorkSDK.shared.loadImage(urlString: urlString, to: imageView)
+        label.text = GapoWork.shared.getUserName()
     }
     
-    @IBAction func openChat() {
+    private func didLogin() {
+        label.text = GapoWork.shared.getUserName()
+        openChatButton.isHidden = false
+    }
+    
+    @IBAction func login() {
+        let token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYXBvd29yay52biIsIm1zaXNkbiI6Ijg0OTc2Nzk2MDYwIiwiZnVsbE5hbWUiOiJCw7lpIFF1YW5nIFZpbmgiLCJhdmF0YXIiOiJodHRwczovL2ltYWdlLTEuZ2Fwb3dvcmsudm4vaW1hZ2VzLzI1OGE0MDI1LWZmM2UtNDJkMC05ZWNlLWM0NTFkN2FkM2UwNS5qcGVnIiwiYmlydGhkYXkiOiIxOTg5LTAzLTE4IiwiZ2VuZGVyIjoiMCIsImV4cCI6MTc0MTc3MzQ0Mn0.v4Zv99KTrAk7b7ee_EMKat426PXLKNA1BpSDWgtPxG8"
+        GapoWork.shared.exchangeToken(token: token) { [weak self] data in
+            if data != nil {
+                self?.didLogin()
+            }
+        }
+    }
+    
+    @IBAction func presentChat() {
         GapoWork.shared.presentChat()
     }
 

@@ -8,6 +8,31 @@ PODS:
   - CocoaMQTT/Core (2.1.6):
     - MqttCocoaAsyncSocket (~> 1.0.8)
   - Differentiator (4.0.1)
+  - Firebase/CoreOnly (11.9.0):
+    - FirebaseCore (~> 11.9.0)
+  - Firebase/Messaging (11.9.0):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (~> 11.9.0)
+  - FirebaseCore (11.9.0):
+    - FirebaseCoreInternal (~> 11.9.0)
+    - GoogleUtilities/Environment (~> 8.0)
+    - GoogleUtilities/Logger (~> 8.0)
+  - FirebaseCoreInternal (11.9.0):
+    - "GoogleUtilities/NSData+zlib (~> 8.0)"
+  - FirebaseInstallations (11.9.0):
+    - FirebaseCore (~> 11.9.0)
+    - GoogleUtilities/Environment (~> 8.0)
+    - GoogleUtilities/UserDefaults (~> 8.0)
+    - PromisesObjC (~> 2.4)
+  - FirebaseMessaging (11.9.0):
+    - FirebaseCore (~> 11.9.0)
+    - FirebaseInstallations (~> 11.0)
+    - GoogleDataTransport (~> 10.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 8.0)
+    - GoogleUtilities/Environment (~> 8.0)
+    - GoogleUtilities/Reachability (~> 8.0)
+    - GoogleUtilities/UserDefaults (~> 8.0)
+    - nanopb (~> 3.30910.0)
   - FittedSheets (2.6.1)
   - GapoSDK (1.0.0):
     - Action (= 4.2.0)
@@ -30,6 +55,33 @@ PODS:
     - SDWebImageWebPCoder (= 0.6.1)
     - SkeletonView (= 1.30.4)
     - SVProgressHUD (= 2.2.5)
+  - GoogleDataTransport (10.1.0):
+    - nanopb (~> 3.30910.0)
+    - PromisesObjC (~> 2.4)
+  - GoogleUtilities/AppDelegateSwizzler (8.0.2):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+    - GoogleUtilities/Privacy
+  - GoogleUtilities/Environment (8.0.2):
+    - GoogleUtilities/Privacy
+  - GoogleUtilities/Logger (8.0.2):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Privacy
+  - GoogleUtilities/Network (8.0.2):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Privacy
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (8.0.2)":
+    - GoogleUtilities/Privacy
+  - GoogleUtilities/Privacy (8.0.2)
+  - GoogleUtilities/Reachability (8.0.2):
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Privacy
+  - GoogleUtilities/UserDefaults (8.0.2):
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Privacy
   - librlottie (0.2.1)
   - libwebp (1.5.0):
     - libwebp/demux (= 1.5.0)
@@ -55,6 +107,11 @@ PODS:
   - Moya/Core (15.0.0):
     - Alamofire (~> 5.0)
   - MqttCocoaAsyncSocket (1.0.8)
+  - nanopb (3.30910.0):
+    - nanopb/decode (= 3.30910.0)
+    - nanopb/encode (= 3.30910.0)
+  - nanopb/decode (3.30910.0)
+  - nanopb/encode (3.30910.0)
   - Parchment (3.2.0)
   - PromiseKit (6.13.1):
     - PromiseKit/CorePromise (= 6.13.1)
@@ -65,6 +122,7 @@ PODS:
     - PromiseKit/CorePromise
   - PromiseKit/UIKit (6.13.1):
     - PromiseKit/CorePromise
+  - PromisesObjC (2.4.0)
   - PureLayout (3.1.9)
   - Realm (10.54.1):
     - Realm/Headers (= 10.54.1)
@@ -101,6 +159,7 @@ PODS:
   - SwiftProtobuf (1.29.0)
 
 DEPENDENCIES:
+  - Firebase/Messaging
   - GapoSDK (from `../../GapoSDK`)
 
 SPEC REPOS:
@@ -109,7 +168,14 @@ SPEC REPOS:
     - Alamofire
     - CocoaMQTT
     - Differentiator
+    - Firebase
+    - FirebaseCore
+    - FirebaseCoreInternal
+    - FirebaseInstallations
+    - FirebaseMessaging
     - FittedSheets
+    - GoogleDataTransport
+    - GoogleUtilities
     - librlottie
     - libwebp
     - LiveKitClient
@@ -118,8 +184,10 @@ SPEC REPOS:
     - lottie-ios
     - Moya
     - MqttCocoaAsyncSocket
+    - nanopb
     - Parchment
     - PromiseKit
+    - PromisesObjC
     - PureLayout
     - Realm
     - RealmSwift
@@ -145,8 +213,15 @@ SPEC CHECKSUMS:
   Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
   CocoaMQTT: 1f206228b29318eabdacad0c2e4e88575922c27a
   Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  Firebase: 819b973f669bc894c85e181f814171e9d4440b29
+  FirebaseCore: 7cfcf7e8b33985c06478fd2b96e2f7101eb61a1c
+  FirebaseCoreInternal: 154779013b85b4b290fdba38414df475f42e3096
+  FirebaseInstallations: c76d4931a485fc0cc2dc1d62d3ed0369846ea4b8
+  FirebaseMessaging: 07e196b68580e68104df5c1c1b09ac26d04b24ea
   FittedSheets: 37e35f105c531f3845075f1788dd8517a35315c4
   GapoSDK: a4898c9a8083f8bbcaa4e6bd22b3f13f9a306392
+  GoogleDataTransport: aae35b7ea0c09004c3797d53c8c41f66f219d6a7
+  GoogleUtilities: 26a3abef001b6533cf678d3eb38fd3f614b7872d
   librlottie: 31aadd1f842008260fa7387f7fcb837b2fabeeea
   libwebp: 02b23773aedb6ff1fd38cec7a77b81414c6842a8
   LiveKitClient: 3cc7638a7895aa2ae70650e3f932933414e1b3cf
@@ -155,8 +230,10 @@ SPEC CHECKSUMS:
   lottie-ios: c55158d67d0629a260625cc2ded2052b829e3c3e
   Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
   MqttCocoaAsyncSocket: 77d3b74f76228dd5a05d1f9526eab101d415b30c
+  nanopb: fad817b59e0457d11a5dfbde799381cd727c1275
   Parchment: a43c440b22c8a60f7e0196b74339446d4d1d18ea
   PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  PromisesObjC: f5707f49cb48b9636751c5b2e7d227e43fba9f47
   PureLayout: 5fb5e5429519627d60d079ccb1eaa7265ce7cf88
   Realm: 7c70fc7ae6ebfb635b29bc05ac1a6c5eeeb3c572
   RealmSwift: 12797d5849c90f37eafad8f44b4dadb8e558a806
@@ -173,6 +250,6 @@ SPEC CHECKSUMS:
   SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
   SwiftProtobuf: b7aa08087e2ab6d162862d143020091254095f69
 
-PODFILE CHECKSUM: db9b8dc4c98659fb79c69e64a77f107ff0e3f10d
+PODFILE CHECKSUM: 591704be192c323e38244e9756fb78666d1b79ec
 
 COCOAPODS: 1.16.2
