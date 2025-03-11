@@ -121,15 +121,6 @@ extension UIKit.UITextView {
 extension UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func awakeFromNib()
 }
-public struct GapoWorkConfig {
-  public var appName: Swift.String
-  public var appScheme: Swift.String
-  public var language: Swift.String
-  public var environment: GapoSDK.ProductState
-  public var host: Swift.String
-  public var hostPrefix: Swift.String?
-  public init(appName: Swift.String, appScheme: Swift.String, host: Swift.String, hostPrefix: Swift.String?, language: Swift.String, environment: GapoSDK.ProductState)
-}
 @_hasMissingDesignatedInitializers public class GapoWork {
   public static let shared: GapoSDK.GapoWork
   public func setup(config: GapoSDK.GapoWorkConfig)
@@ -146,6 +137,15 @@ public struct GapoWorkConfig {
   public func presentChat()
   public func showIncomingCall(payload: [Swift.String : Any], completion: @escaping () -> Swift.Void)
   @objc deinit
+}
+public struct GapoWorkConfig {
+  public var appName: Swift.String
+  public var appScheme: Swift.String
+  public var language: Swift.String
+  public var environment: GapoSDK.ProductState
+  public var host: Swift.String
+  public var hostPrefix: Swift.String?
+  public init(appName: Swift.String, appScheme: Swift.String, host: Swift.String, hostPrefix: Swift.String?, language: Swift.String, environment: GapoSDK.ProductState)
 }
 public enum ProductState : Swift.String {
   case staging

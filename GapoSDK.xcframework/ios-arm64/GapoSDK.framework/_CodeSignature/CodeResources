@@ -6,7 +6,7 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		QjFA0xrNku3HllUzz1USvQVpSSo=
+		f+rQ75eN+0TUN9NMQE56OvBSEuM=
 		</data>
 		<key>.codecov.yml</key>
 		<data>
@@ -866,15 +866,15 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		pnuwjXhbebR+J3irS0JqR6lzq18=
+		dtZ1RRCUVwPumEMiU8U897V9QHI=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Ub+q+vJdzX0xRoyHweUSG9nvAnE=
+		RAuF7vdN0RJslNSAYR1J+cenwNM=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Yxn7/cQ+IxnSt0+iG3liDaTYjXc=
+		XeTNHAFRPWASL+nrBikr2hYoLxI=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -882,11 +882,11 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Yxn7/cQ+IxnSt0+iG3liDaTYjXc=
+		XeTNHAFRPWASL+nrBikr2hYoLxI=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		t3oLDiXMS1E2D29VPz7l+bUK4S0=
+		ZBDAIidUNN6kqabyNRxby4UM2rM=
 		</data>
 		<key>MovableChatFolderViewController.nib</key>
 		<data>
@@ -4594,21 +4594,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RAny/+tdlHTcWCn8n0BI5ohARjRHQ5w33tcNaj+mrnQ=
+			6aR58L/LkkVMnR/l/zemopyIc86h1NtU2R9oMMEBijI=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3UqpnEAK1ZI9jEvKvBkXyn+hrX2e+v4OZ0yeRUJq//4=
+			qMjMTW798WbCnXGcQR0h8ichEr5v+UCPVdWMtfi4eoo=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aaczNtYq2flLhZI/JwZqICi3eBGEtMzdg9W5sjdXk24=
+			l/84JmcL04YwBgaO6TyEK25ztyikkw3oJRozbMVPqOA=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -4622,14 +4622,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aaczNtYq2flLhZI/JwZqICi3eBGEtMzdg9W5sjdXk24=
+			l/84JmcL04YwBgaO6TyEK25ztyikkw3oJRozbMVPqOA=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O9oaFVppVddHFyg9TKv2So7xECoSaM/um9POlnHvsHc=
+			WQIdApIRIGOH/YnrX8fjp094qTpopa2dEz83M5T7JXw=
 			</data>
 		</dict>
 		<key>MovableChatFolderViewController.nib</key>
