@@ -1,0 +1,212 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -enable-bare-slash-regex -module-name GapoSDK
+import AVFoundation
+import AVKit
+import Accelerate
+import Action
+import Alamofire
+import AssetsLibrary
+import AudioToolbox
+import Contacts.CNContactStore
+import CallKit
+import CloudKit
+import CocoaMQTT
+import Combine
+import CommonCrypto
+import Contacts
+import CoreAudio
+import CoreGraphics
+import CoreImage
+import CoreLocation/*.CLLocation*/
+import CoreMedia
+import CoreServices
+import CoreText
+import DeveloperToolsSupport
+import Differentiator
+import FittedSheets
+import Foundation
+import GameController
+import ImageIO
+import Intents
+import LiveKitClient
+import LiveKitWebRTC
+import Lottie
+import MediaPlayer
+import Moya
+import Network
+import ObjectiveC
+import Parchment
+import Photos
+import PhotosUI
+import PromiseKit
+import PureLayout
+import PushKit
+import QuartzCore
+import RealmSwift
+import RxCocoa
+import RxDataSources
+import RxGesture
+import RxKeyboard
+import RxRelay
+import RxSwift
+import SDWebImage
+import SDWebImageLottieCoder
+import SDWebImageWebPCoder
+import SQLite3
+import SVProgressHUD
+import SafariServices
+import SkeletonView
+import Swift
+import RxCocoa.Swift
+import RxSwift.Swift
+import SwiftUI
+import UIKit.UIColor
+import UIKit.UIGestureRecognizerSubclass
+import UIKit.UIImage
+import UIKit
+import UserNotifications
+import WebKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+import librlottie
+import os.log
+import os
+extension AVKit.AVPlayerViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillDisappear(_ animated: Swift.Bool)
+}
+extension Foundation.URLError.Code : Swift.Error {
+}
+extension Moya.MoyaProvider : RxSwift.ReactiveCompatible {
+  public typealias ReactiveBase = Moya.MoyaProvider<Target>
+}
+extension UIKit.UITableView {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func awakeFromNib()
+}
+infix operator <~> : DefaultPrecedence
+infix operator ~> : DefaultPrecedence
+extension CoreFoundation.CGPoint {
+  @inlinable internal func distance(_ other: CoreFoundation.CGPoint) -> CoreFoundation.CGFloat {
+        return sqrt(pow(x - other.x, 2) + pow(y - other.y, 2))
+    }
+}
+extension UIKit.UIBarButtonItem {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func awakeFromNib()
+}
+extension UIKit.UIButton {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func awakeFromNib()
+}
+extension UIKit.UILabel {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func awakeFromNib()
+}
+extension UIKit.UINavigationItem {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func awakeFromNib()
+}
+extension UIKit.UISearchBar {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func awakeFromNib()
+}
+extension UIKit.UISegmentedControl {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func awakeFromNib()
+}
+extension UIKit.UITabBarItem {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func awakeFromNib()
+}
+extension UIKit.UITextField {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func awakeFromNib()
+}
+extension UIKit.UITextView {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func awakeFromNib()
+}
+extension UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func awakeFromNib()
+}
+public struct GapoWorkConfig {
+  public var appName: Swift.String
+  public var appScheme: Swift.String
+  public var language: Swift.String
+  public var environment: GapoSDK.ProductState
+  public var host: Swift.String
+  public var hostPrefix: Swift.String?
+  public init(appName: Swift.String, appScheme: Swift.String, host: Swift.String, hostPrefix: Swift.String?, language: Swift.String, environment: GapoSDK.ProductState)
+}
+@_hasMissingDesignatedInitializers public class GapoWork {
+  public static let shared: GapoSDK.GapoWork
+  public func setup(config: GapoSDK.GapoWorkConfig)
+  public func setLanguage(_ language: Swift.String)
+  public func getAppName() -> Swift.String
+  public func getUserName() -> Swift.String
+  public func setAPNsToken(_ token: Swift.String)
+  public func setVoipToken(_ token: Swift.String)
+  public func setFcmToken(_ token: Swift.String)
+  public func exchangeToken(token: Swift.String, completion: @escaping (Swift.String?) -> Swift.Void)
+  public func handleNotification(info: [Swift.String : Any])
+  public func pushChat()
+  public func openLogin()
+  public func presentChat()
+  public func showIncomingCall(payload: [Swift.String : Any], completion: @escaping () -> Swift.Void)
+  @objc deinit
+}
+public enum ProductState : Swift.String {
+  case staging
+  case uat
+  case production
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+extension UIKit.UIEdgeInsets : Swift.Hashable {
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class GapoWorkSDK {
+  public static let shared: GapoSDK.GapoWorkSDK
+  public func test()
+  public func loadImage(urlString: Swift.String, to imageView: UIKit.UIImageView)
+  @objc deinit
+}
+extension CoreFoundation.CGSize : Swift.Hashable {
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+infix operator >=~ : DefaultPrecedence
+precedencegroup DisposablePrecedence {
+  lowerThan: DefaultPrecedence
+}
+infix operator => : DisposablePrecedence
+public let MaxCountOfRecentsEmojis: Swift.Int
+@_hasMissingDesignatedInitializers open class LocalizeCommonProtocol {
+  open var availableLanguages: [Swift.String] {
+    get
+  }
+  open var fileName: Swift.String
+  open var defaultLanguage: Swift.String
+  open var currentLanguage: Swift.String {
+    get
+  }
+  open func update(language: Swift.String)
+  open func update(defaultLanguage: Swift.String)
+  open func resetLanguage()
+  open func displayNameForLanguage(_ language: Swift.String) -> Swift.String
+  open func update(fileName: Swift.String)
+  open func update(bundle: Foundation.Bundle)
+  open func localize(key: Swift.String, tableName: Swift.String? = nil) -> Swift.String
+  open func localize(key: Swift.String, replace: Swift.String, tableName: Swift.String? = nil) -> Swift.String
+  open func localize(key: Swift.String, values replace: [Any], tableName: Swift.String? = nil) -> Swift.String
+  open func localize(key: Swift.String, dictionary replace: [Swift.String : Swift.String], tableName: Swift.String? = nil) -> Swift.String
+  @objc deinit
+}
+infix operator <- : DefaultPrecedence
+infix operator >>> : DefaultPrecedence
+extension FittedSheets.SheetViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func present(_ viewControllerToPresent: UIKit.UIViewController, animated flag: Swift.Bool, completion: (() -> Swift.Void)? = nil)
+}
+extension GapoSDK.ProductState : Swift.Equatable {}
+extension GapoSDK.ProductState : Swift.Hashable {}
+extension GapoSDK.ProductState : Swift.RawRepresentable {}

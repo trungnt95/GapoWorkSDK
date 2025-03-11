@@ -1,0 +1,178 @@
+PODS:
+  - Action (4.2.0):
+    - RxCocoa (< 7.0, >= 5.0)
+    - RxSwift (< 7.0, >= 5.0)
+  - Alamofire (5.10.2)
+  - CocoaMQTT (2.1.6):
+    - CocoaMQTT/Core (= 2.1.6)
+  - CocoaMQTT/Core (2.1.6):
+    - MqttCocoaAsyncSocket (~> 1.0.8)
+  - Differentiator (4.0.1)
+  - FittedSheets (2.6.1)
+  - GapoSDK (1.0.0):
+    - Action (= 4.2.0)
+    - CocoaMQTT (= 2.1.6)
+    - FittedSheets (= 2.6.1)
+    - LiveKitClient (= 2.0.16)
+    - lottie-ios (= 3.5.0)
+    - Moya (= 15.0.0)
+    - Parchment (= 3.2.0)
+    - PromiseKit (= 6.13.1)
+    - PureLayout (= 3.1.9)
+    - RealmSwift (= 10.54.1)
+    - RxCocoa (= 5.1.1)
+    - RxDataSources (= 4.0.1)
+    - RxGesture (= 3.0.2)
+    - RxKeyboard (= 1.0.0)
+    - RxSwift (= 5.1.1)
+    - SDWebImage (= 5.8.4)
+    - SDWebImageLottieCoder (= 0.1.0)
+    - SDWebImageWebPCoder (= 0.6.1)
+    - SkeletonView (= 1.30.4)
+    - SVProgressHUD (= 2.2.5)
+  - librlottie (0.2.1)
+  - libwebp (1.5.0):
+    - libwebp/demux (= 1.5.0)
+    - libwebp/mux (= 1.5.0)
+    - libwebp/sharpyuv (= 1.5.0)
+    - libwebp/webp (= 1.5.0)
+  - libwebp/demux (1.5.0):
+    - libwebp/webp
+  - libwebp/mux (1.5.0):
+    - libwebp/demux
+  - libwebp/sharpyuv (1.5.0)
+  - libwebp/webp (1.5.0):
+    - libwebp/sharpyuv
+  - LiveKitClient (2.0.16):
+    - LiveKitWebRTC (= 125.6422.07)
+    - Logging
+    - SwiftProtobuf
+  - LiveKitWebRTC (125.6422.07)
+  - Logging (1.4.0)
+  - lottie-ios (3.5.0)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - MqttCocoaAsyncSocket (1.0.8)
+  - Parchment (3.2.0)
+  - PromiseKit (6.13.1):
+    - PromiseKit/CorePromise (= 6.13.1)
+    - PromiseKit/Foundation (= 6.13.1)
+    - PromiseKit/UIKit (= 6.13.1)
+  - PromiseKit/CorePromise (6.13.1)
+  - PromiseKit/Foundation (6.13.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.13.1):
+    - PromiseKit/CorePromise
+  - PureLayout (3.1.9)
+  - Realm (10.54.1):
+    - Realm/Headers (= 10.54.1)
+  - Realm/Headers (10.54.1)
+  - RealmSwift (10.54.1):
+    - Realm (= 10.54.1)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxGesture (3.0.2):
+    - RxCocoa (~> 5.1)
+    - RxSwift (~> 5.1)
+  - RxKeyboard (1.0.0):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.1.3):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - SDWebImageLottieCoder (0.1.0):
+    - librlottie (~> 0.1)
+    - SDWebImage (~> 5.6)
+  - SDWebImageWebPCoder (0.6.1):
+    - libwebp (~> 1.0)
+    - SDWebImage/Core (~> 5.7)
+  - SkeletonView (1.30.4)
+  - SVProgressHUD (2.2.5)
+  - SwiftProtobuf (1.29.0)
+
+DEPENDENCIES:
+  - GapoSDK (from `../../GapoSDK`)
+
+SPEC REPOS:
+  trunk:
+    - Action
+    - Alamofire
+    - CocoaMQTT
+    - Differentiator
+    - FittedSheets
+    - librlottie
+    - libwebp
+    - LiveKitClient
+    - LiveKitWebRTC
+    - Logging
+    - lottie-ios
+    - Moya
+    - MqttCocoaAsyncSocket
+    - Parchment
+    - PromiseKit
+    - PureLayout
+    - Realm
+    - RealmSwift
+    - RxCocoa
+    - RxDataSources
+    - RxGesture
+    - RxKeyboard
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - SDWebImageLottieCoder
+    - SDWebImageWebPCoder
+    - SkeletonView
+    - SVProgressHUD
+    - SwiftProtobuf
+
+EXTERNAL SOURCES:
+  GapoSDK:
+    :path: "../../GapoSDK"
+
+SPEC CHECKSUMS:
+  Action: 5dc2194f7a0b77857c82a677b0da655f197c005f
+  Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
+  CocoaMQTT: 1f206228b29318eabdacad0c2e4e88575922c27a
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  FittedSheets: 37e35f105c531f3845075f1788dd8517a35315c4
+  GapoSDK: a4898c9a8083f8bbcaa4e6bd22b3f13f9a306392
+  librlottie: 31aadd1f842008260fa7387f7fcb837b2fabeeea
+  libwebp: 02b23773aedb6ff1fd38cec7a77b81414c6842a8
+  LiveKitClient: 3cc7638a7895aa2ae70650e3f932933414e1b3cf
+  LiveKitWebRTC: 99d224d0d657e09b9463d03376194b14f308ab1e
+  Logging: beeb016c9c80cf77042d62e83495816847ef108b
+  lottie-ios: c55158d67d0629a260625cc2ded2052b829e3c3e
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  MqttCocoaAsyncSocket: 77d3b74f76228dd5a05d1f9526eab101d415b30c
+  Parchment: a43c440b22c8a60f7e0196b74339446d4d1d18ea
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  PureLayout: 5fb5e5429519627d60d079ccb1eaa7265ce7cf88
+  Realm: 7c70fc7ae6ebfb635b29bc05ac1a6c5eeeb3c572
+  RealmSwift: 12797d5849c90f37eafad8f44b4dadb8e558a806
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxGesture: d6bd7447ca3a596c7a9702a6a2b6a2bb5d8bae54
+  RxKeyboard: 6683c4344304a00f943c158bd8a43ce5469c82a7
+  RxRelay: 5a18c2eb2d68326ebaf0112f80d837ae41b92b97
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  SDWebImageLottieCoder: a63b40820ea10d36835d8994531baea838593099
+  SDWebImageWebPCoder: d0dac55073088d24b2ac1b191a71a8f8d0adac21
+  SkeletonView: 5a050f6411e697abd4cda0a8d767013399dccd69
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftProtobuf: b7aa08087e2ab6d162862d143020091254095f69
+
+PODFILE CHECKSUM: db9b8dc4c98659fb79c69e64a77f107ff0e3f10d
+
+COCOAPODS: 1.16.2
