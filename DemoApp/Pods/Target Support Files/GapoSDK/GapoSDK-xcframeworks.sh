@@ -117,5 +117,5 @@ install_xcframework() {
   echo "Copied $source to $destination"
 }
 
-install_xcframework "${PODS_ROOT}/../../../GapoSDK/GapoSDK.xcframework" "GapoSDK" "framework" "ios-arm64" "ios-arm64-simulator"
+install_xcframework "${PODS_ROOT}/../../GapoSDK.xcframework" "GapoSDK" "framework" "ios-arm64" "ios-arm64-simulator"
 

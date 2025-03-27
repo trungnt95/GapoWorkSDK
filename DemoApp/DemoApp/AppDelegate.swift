@@ -38,12 +38,19 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         registerRemoteNotifications()
         registerVoipNotifications()
         setupUIAppearances()
-        let config = GapoWorkConfig(appName: "iHaNoi",
-                                    appScheme: "ihanoi",
-                                    host: "gapowork.vn",
-                                    hostPrefix: "ihanoi",
-                                    language: "vn",
-                                    environment: .staging
+        let colorConfig = GapoWorkColorConfig(
+            primaryColor: "#0C4DA1",
+            secondaryColor: "#0C4DA1",
+            linkPrimaryColor: "#0C4DA1"
+        )
+        let config = GapoWorkConfig(
+            appName: "iHaNoi",
+            appScheme: "ihanoi",
+            host: "gapowork.vn",
+            hostPrefix: "ihanoi",
+            language: "vi",
+            environment: .staging,
+            colorConfig: colorConfig
         )
         GapoWork.shared.setup(config: config)
         

@@ -3,7 +3,7 @@ platform :ios, '13.0'
 target 'DemoApp' do
   use_frameworks!
   
-  pod 'GapoSDK', :path => '../../GapoSDK'
+  pod 'GapoSDK', :path => '../../GapoSDKPod'
   pod 'Firebase/Messaging'
   
   post_install do |installer|

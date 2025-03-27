@@ -6,7 +6,7 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		MFEdLmdWPXeaIKKoq/WxsTk7+Tg=
+		WXIFdMpui+MJzB7M3d2Sp1fEovo=
 		</data>
 		<key>.codecov.yml</key>
 		<data>
@@ -326,7 +326,7 @@
 		</data>
 		<key>CollabGroupHeaderView.nib</key>
 		<data>
-		iWYBsKLTizMML3OVyiMvTzhe+gw=
+		uj5UppCpHogWS2ygAOGVFJW+eYM=
 		</data>
 		<key>CollabOnboardController.nib</key>
 		<data>
@@ -338,7 +338,7 @@
 		</data>
 		<key>ConversationCell.nib</key>
 		<data>
-		8rFPmjSjW45eEShK2mniIf0TR6A=
+		TNdnGhgDNnkNNmNs5R2PiupO8BI=
 		</data>
 		<key>ConversationSearchBar.nib</key>
 		<data>
@@ -370,7 +370,7 @@
 		</data>
 		<key>ConversationsViewController.nib</key>
 		<data>
-		QibiTWS8CcrVoW5VTk7vGcYmKEE=
+		a7V9Dh9z+tgUaOgBf/X4dn9jQHQ=
 		</data>
 		<key>CreateGroupFriendCell.nib</key>
 		<data>
@@ -866,15 +866,15 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		blII2XGRwrUAXbrblyBOJG/Rez8=
+		l8f85EpSOrPwvMRy8DTfaL7d0qI=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		pHu2Pm0w9zWlkQjd4ND/saYhyCU=
+		P95dHfgEoqXmJKwr8VpNxHKVuvc=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		WDi+dwA0GHQQqKMfXz5ankzABmg=
+		Cur8BepJVywXM6Eo8HDheERDXts=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -882,11 +882,11 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		WDi+dwA0GHQQqKMfXz5ankzABmg=
+		Cur8BepJVywXM6Eo8HDheERDXts=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TRjQ9OtIVwyXPyGmj79oDzujd1A=
+		immQaEQmb0OpWiIVnUI+M5N8/bM=
 		</data>
 		<key>MovableChatFolderViewController.nib</key>
 		<data>
@@ -3656,7 +3656,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dGZ753j50J9V3ZBzEuKjGi/HTmuv8DyII2ZdJsPOVQk=
+			dV2v/jiexbfKlsgYBjvQ8B76SGYcY8ncOsLvT0zutNQ=
 			</data>
 		</dict>
 		<key>CollabOnboardController.nib</key>
@@ -3677,7 +3677,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZU9bASRT11Ko7N+ZD9bQgZ24G8BVuXSrCN7/ptMCrxk=
+			CNxfZqR1F4LR9ZixnIoy8nq0dEwPTRR/BfhCJqen6s0=
 			</data>
 		</dict>
 		<key>ConversationSearchBar.nib</key>
@@ -3733,7 +3733,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dCYhkHpZ/DKroB5hbRSiPgz5YmSny+vXLXfu00IOrOc=
+			ZqlWQvNdQ2qQSwt/v18g7+rENzKx+dtwzWf2583TfB0=
 			</data>
 		</dict>
 		<key>CreateGroupFriendCell.nib</key>
@@ -4594,21 +4594,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EO2GYy1V5KuEoNfJVgVERCS20ncfknp78w15n86U/k4=
+			UHtnpAe9HQ534ruGF90jsEMo66k/OiGrcjnK1nVcvOA=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ubhZCEakbReo6eLpbo98uLtm/c+lV3d39TZON0v9K9g=
+			oFE/jeV+7b6unnLB18ws8XtqKpwWgGFlSDkGx/DOjT4=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9rzlOBj26JHahix4gVpd70jngndXyRsrGXZ3f1RRvHw=
+			TOcJsX7LHmFlP+bfuhDsWSinrT3MEv7lmcZDvgP/EQE=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -4622,14 +4622,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9rzlOBj26JHahix4gVpd70jngndXyRsrGXZ3f1RRvHw=
+			TOcJsX7LHmFlP+bfuhDsWSinrT3MEv7lmcZDvgP/EQE=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9PH7K17bmV29/IbRLyrYqlIXuB94us++z2Ca7u5U0U4=
+			4r66QbwJfNoXnx3zZb9MK8eSPmCa9AfsUDr/xE4hxuA=
 			</data>
 		</dict>
 		<key>MovableChatFolderViewController.nib</key>

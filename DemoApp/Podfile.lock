@@ -160,7 +160,7 @@ PODS:
 
 DEPENDENCIES:
   - Firebase/Messaging
-  - GapoSDK (from `../../GapoSDK`)
+  - GapoSDK (from `../../GapoSDKPod`)
 
 SPEC REPOS:
   trunk:
@@ -206,7 +206,7 @@ SPEC REPOS:
 
 EXTERNAL SOURCES:
   GapoSDK:
-    :path: "../../GapoSDK"
+    :path: "../../GapoSDKPod"
 
 SPEC CHECKSUMS:
   Action: 5dc2194f7a0b77857c82a677b0da655f197c005f
@@ -250,6 +250,6 @@ SPEC CHECKSUMS:
   SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
   SwiftProtobuf: b7aa08087e2ab6d162862d143020091254095f69
 
-PODFILE CHECKSUM: 591704be192c323e38244e9756fb78666d1b79ec
+PODFILE CHECKSUM: 5333ecb0fabcd76df0173dd25ae50b6cb369aa9d
 
 COCOAPODS: 1.16.2

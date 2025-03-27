@@ -3774,6 +3774,7 @@
 		371A6C9C32177E33B7ADCDEE333D25A7 /* JSONEncoder.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = JSONEncoder.swift; path = Sources/SwiftProtobuf/JSONEncoder.swift; sourceTree = "<group>"; };
 		37260738C804ECBA6D24713CE03C691F /* PagingDistance.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PagingDistance.swift; path = Parchment/Structs/PagingDistance.swift; sourceTree = "<group>"; };
 		37420936B0A488C4D02A610772A543BF /* Throttle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Throttle.swift; path = RxSwift/Observables/Throttle.swift; sourceTree = "<group>"; };
+		374DF0963CE3D9782F6CF4E4FBECE2E7 /* GapoSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GapoSDK.debug.xcconfig; sourceTree = "<group>"; };
 		3752EEDE39E3872C995763FD20F1A77C /* Result+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Result+Alamofire.swift"; path = "Source/Extensions/Result+Alamofire.swift"; sourceTree = "<group>"; };
 		3756A9BBE41ABEE8DCBF5BCA6972C4DA /* Moya */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Moya; path = Moya.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		375E023C11C24CDF2E8CC204DC7058C2 /* Deprecated.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Deprecated.swift; path = SkeletonViewCore/Sources/API/Deprecated.swift; sourceTree = "<group>"; };
@@ -4006,6 +4007,7 @@
 		4FF9BE25E8AC33EBE0E6A8D21A09E2BD /* PropertyAccessors.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PropertyAccessors.swift; path = RealmSwift/Impl/PropertyAccessors.swift; sourceTree = "<group>"; };
 		5003A0BD22A91EB31ACF94D1F1B4A1E8 /* SDAnimatedImageRep.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDAnimatedImageRep.m; path = SDWebImage/Core/SDAnimatedImageRep.m; sourceTree = "<group>"; };
 		501220E76864492F0925EBA544332F17 /* libwebp-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "libwebp-Info.plist"; sourceTree = "<group>"; };
+		501488B19D3EFBDC46AA209D9F80F78E /* GapoSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GapoSDK.release.xcconfig; sourceTree = "<group>"; };
 		503395356F66DB31A1860DF98C29EB07 /* SDAnimatedImageView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDAnimatedImageView.h; path = SDWebImage/Core/SDAnimatedImageView.h; sourceTree = "<group>"; };
 		50C3EA49D381000449DC5974E524D754 /* SDWebImageLottieCoder-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SDWebImageLottieCoder-prefix.pch"; sourceTree = "<group>"; };
 		50E24E44936F0F6471AC6C686E804487 /* PagingMenuPosition.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PagingMenuPosition.swift; path = Parchment/Enums/PagingMenuPosition.swift; sourceTree = "<group>"; };
@@ -4251,6 +4253,7 @@
 		6A1A418932B56406B7CA07F60E7597A8 /* librlottie-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "librlottie-umbrella.h"; sourceTree = "<group>"; };
 		6A1A79E188A1943EE96C691D745EA228 /* SDFileAttributeHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDFileAttributeHelper.h; path = SDWebImage/Private/SDFileAttributeHelper.h; sourceTree = "<group>"; };
 		6A487C805F7B214D7F63E6A2A0CFA777 /* Locks.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Locks.swift; path = Sources/Logging/Locks.swift; sourceTree = "<group>"; };
+		6A4BC68D48F383B213F503094AD9E6B0 /* GapoSDK-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "GapoSDK-xcframeworks.sh"; sourceTree = "<group>"; };
 		6A6773C1E6E680B935950B38CD981B06 /* RxCocoaRuntime.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RxCocoaRuntime.h; path = RxCocoa/Runtime/include/RxCocoaRuntime.h; sourceTree = "<group>"; };
 		6A80F40523C33E17C2993E0A03B7CE47 /* MGCDAsyncUdpSocket.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MGCDAsyncUdpSocket.m; path = Source/GCD/MGCDAsyncUdpSocket.m; sourceTree = "<group>"; };
 		6AA84CF11439934531941AF097846D9A /* NativeView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NativeView.swift; path = Sources/LiveKit/Support/NativeView.swift; sourceTree = "<group>"; };
@@ -4385,6 +4388,7 @@
 		7B39DE15568818745F6E5DA9428A1E2E /* RLMCredentials.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = RLMCredentials.mm; path = Realm/RLMCredentials.mm; sourceTree = "<group>"; };
 		7B4F65DF91F6E30426B94ECE12BBEA5F /* BehaviorRelay.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BehaviorRelay.swift; path = RxRelay/BehaviorRelay.swift; sourceTree = "<group>"; };
 		7B5FBCB6482650EECA79E905D10846DC /* AnimationSubview.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimationSubview.swift; path = Sources/Public/iOS/AnimationSubview.swift; sourceTree = "<group>"; };
+		7BBFDB4749FAFB989BAB5B5A83050773 /* GapoSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = GapoSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		7C380181E8F21AAB0F2C8599A8D6BBB6 /* FIRBundleUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRBundleUtil.h; path = FirebaseCore/Sources/FIRBundleUtil.h; sourceTree = "<group>"; };
 		7C3965407E24CE44D870ACD06DE6A886 /* SDWebImageWebPCoder.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SDWebImageWebPCoder.debug.xcconfig; sourceTree = "<group>"; };
 		7C3E38D298F27B8D8957C5050CF70B50 /* AnimationImageProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimationImageProvider.swift; path = Sources/Public/ImageProvider/AnimationImageProvider.swift; sourceTree = "<group>"; };
@@ -4790,6 +4794,7 @@
 		A51C63CA526D6152A54FE185C133C6DD /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = FirebaseInstallations/Source/Library/Resources/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		A54416ED4E0D7AE56A106CCDF100FB5F /* FIRMessagingTokenDeleteOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRMessagingTokenDeleteOperation.h; path = FirebaseMessaging/Sources/Token/FIRMessagingTokenDeleteOperation.h; sourceTree = "<group>"; };
 		A554E19B9F6A2BC0EBE4B731BAD5DC3F /* FillNode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FillNode.swift; path = Sources/Private/MainThread/NodeRenderSystem/Nodes/RenderNodes/FillNode.swift; sourceTree = "<group>"; };
+		A5AA7FAF672C363E7D9AEEFAC0BFE808 /* GapoSDK.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = GapoSDK.xcframework; sourceTree = "<group>"; };
 		A5CB5BED11C5DD93A97E07A9D5C165BE /* ResourceBundle-SwiftProtobuf-SwiftProtobuf-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-SwiftProtobuf-SwiftProtobuf-Info.plist"; sourceTree = "<group>"; };
 		A5CE829EE543D6B659419B961CA305A0 /* FIRInstallationsIDController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRInstallationsIDController.h; path = FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsIDController.h; sourceTree = "<group>"; };
 		A60E8A46A787A394FE4A723004AD5426 /* GDTCORMetricsController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GDTCORMetricsController.m; path = GoogleDataTransport/GDTCORLibrary/GDTCORMetricsController.m; sourceTree = "<group>"; };
@@ -4898,7 +4903,6 @@
 		B03D8566C713A7E8EFEC2B8BDD302198 /* VideoViewDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VideoViewDelegate.swift; path = Sources/LiveKit/Protocols/VideoViewDelegate.swift; sourceTree = "<group>"; };
 		B05260BD81A4EACB7207F2422CD27B32 /* sharpyuv_cpu.c */ = {isa = PBXFileReference; includeInIndex = 1; name = sharpyuv_cpu.c; path = sharpyuv/sharpyuv_cpu.c; sourceTree = "<group>"; };
 		B0588C97BF0A2A55CEE373235FEFE63F /* SDWebImageLottieCoder */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SDWebImageLottieCoder; path = SDWebImageLottieCoder.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B06C17D10778FDEF5AB4C08A46BB43A6 /* GapoSDK.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = GapoSDK.xcframework; sourceTree = "<group>"; };
 		B0ABC9781EFACB6147BB92C90B16377A /* WebSocket.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WebSocket.swift; path = Sources/LiveKit/Support/WebSocket.swift; sourceTree = "<group>"; };
 		B0B214D775196BA7CA8E17E53048A493 /* SDWebImage */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SDWebImage; path = SDWebImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0B5DC7CE0516C50B08E6383966B5A62 /* SVProgressHUD-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SVProgressHUD-umbrella.h"; sourceTree = "<group>"; };
@@ -5067,7 +5071,6 @@
 		C09E34D6E45D6B42C53222D42D74829A /* Transport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Transport.swift; path = Sources/LiveKit/Core/Transport.swift; sourceTree = "<group>"; };
 		C0B311A34FFCC44216C5324C56D5440E /* vbezier.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = vbezier.h; path = rlottie/src/vector/vbezier.h; sourceTree = "<group>"; };
 		C129FA160F233D2DED5FC0DC0390E563 /* Alamofire-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Alamofire-prefix.pch"; sourceTree = "<group>"; };
-		C155955E1B7746A2CFF718B6D3583DFE /* GapoSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GapoSDK.release.xcconfig; sourceTree = "<group>"; };
 		C17EC0DFB03B5A3EE61F7B26B97BC850 /* GradientStroke.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GradientStroke.swift; path = Sources/Private/Model/ShapeItems/GradientStroke.swift; sourceTree = "<group>"; };
 		C17F176B3AB1678A7E153735516DE220 /* CocoaMQTTDeliver.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CocoaMQTTDeliver.swift; path = Source/CocoaMQTTDeliver.swift; sourceTree = "<group>"; };
 		C1A74BC9DBCB2F24D11BCC5F092DD059 /* PagingItem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PagingItem.swift; path = Parchment/Protocols/PagingItem.swift; sourceTree = "<group>"; };
@@ -5186,7 +5189,6 @@
 		CE6B87AD9A911326090E88D4587209FD /* CocoaMQTT-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CocoaMQTT-dummy.m"; sourceTree = "<group>"; };
 		CEE667B6AD7B615DC3DB42E566E42967 /* Signal.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Signal.swift; path = RxCocoa/Traits/Signal/Signal.swift; sourceTree = "<group>"; };
 		CF02499EA3D7DAA43560D82949727751 /* RxCocoa-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RxCocoa-prefix.pch"; sourceTree = "<group>"; };
-		CF27DAA1DCE5A810D3BB6D7A2742BB12 /* GapoSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = GapoSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CF2A6F68BA2502250A6458F5583C7D9C /* AddRef.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AddRef.swift; path = RxSwift/Observables/AddRef.swift; sourceTree = "<group>"; };
 		CF2FD4E37D0770C32BB76E71A7BE0215 /* dec_mips_dsp_r2.c */ = {isa = PBXFileReference; includeInIndex = 1; name = dec_mips_dsp_r2.c; path = src/dsp/dec_mips_dsp_r2.c; sourceTree = "<group>"; };
 		CF31EA26D65C814D2CD37CACDD3E23F5 /* GDTCOREvent+GDTCCTSupport.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "GDTCOREvent+GDTCCTSupport.m"; path = "GoogleDataTransport/GDTCCTLibrary/GDTCOREvent+GDTCCTSupport.m"; sourceTree = "<group>"; };
@@ -5301,7 +5303,6 @@
 		DA10ADA480CB2C6DAE633D0BE3D0E61E /* RLMAsyncTask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMAsyncTask.h; path = include/RLMAsyncTask.h; sourceTree = "<group>"; };
 		DA10C2DDA5823F1615D409842D0E281D /* Errors.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Errors.swift; path = RxSwift/Errors.swift; sourceTree = "<group>"; };
 		DA17C79C791D6DD6EC5CA6EDEF83966C /* AnimationTextProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnimationTextProvider.swift; path = Sources/Public/TextProvider/AnimationTextProvider.swift; sourceTree = "<group>"; };
-		DA5418704752D97293D980D80C744740 /* GapoSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GapoSDK.debug.xcconfig; sourceTree = "<group>"; };
 		DA5E0EF9FC5F838807BCFB77B9C22561 /* NSObject+Rx+KVORepresentable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NSObject+Rx+KVORepresentable.swift"; path = "RxCocoa/Foundation/NSObject+Rx+KVORepresentable.swift"; sourceTree = "<group>"; };
 		DA6519184701F86B6E132829397A3932 /* PromiseKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PromiseKit-prefix.pch"; sourceTree = "<group>"; };
 		DA6CC811242498AED8FA91D4591C4E11 /* Message+FieldMask.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Message+FieldMask.swift"; path = "Sources/SwiftProtobuf/Message+FieldMask.swift"; sourceTree = "<group>"; };
@@ -5309,7 +5310,6 @@
 		DAA7CADB219EF0D46EFC30A08DEE0BC9 /* RLMUser_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMUser_Private.h; path = include/RLMUser_Private.h; sourceTree = "<group>"; };
 		DAADB48341AB48896540981EF188DA57 /* SwiftProtobufContiguousBytes.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftProtobufContiguousBytes.swift; path = Sources/SwiftProtobuf/SwiftProtobufContiguousBytes.swift; sourceTree = "<group>"; };
 		DAAED894375E7712D3E813FD22A6559D /* GroupInterpolator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GroupInterpolator.swift; path = Sources/Private/MainThread/NodeRenderSystem/NodeProperties/ValueProviders/GroupInterpolator.swift; sourceTree = "<group>"; };
-		DABDC96D32352B49B37F2093C7840188 /* GapoSDK-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "GapoSDK-xcframeworks.sh"; sourceTree = "<group>"; };
 		DAD6AC81019D6D8770D9D1E56B13042C /* ThreadSafeReference.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ThreadSafeReference.swift; path = RealmSwift/ThreadSafeReference.swift; sourceTree = "<group>"; };
 		DB3355788BCF7BCFAF0BAEE2DA1C6AEA /* Geospatial.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Geospatial.swift; path = RealmSwift/Geospatial.swift; sourceTree = "<group>"; };
 		DB5DF5A954F21468B059727D90A98349 /* SVRadialGradientLayer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SVRadialGradientLayer.m; path = SVProgressHUD/SVRadialGradientLayer.m; sourceTree = "<group>"; };
@@ -6095,6 +6095,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0453F158E839A01E45187701178474A0 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				7BBFDB4749FAFB989BAB5B5A83050773 /* GapoSDK.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		0628DF314412DB4A48A25AB343CD6495 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -6626,14 +6634,6 @@
 			path = "../Target Support Files/Action";
 			sourceTree = "<group>";
 		};
-		2B46C98B9A089E7F271B3762AA80668F /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				B06C17D10778FDEF5AB4C08A46BB43A6 /* GapoSDK.xcframework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
 		2CBB6690396C3A289EB3A52D3E74435C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
@@ -6868,6 +6868,17 @@
 			name = CoreOnly;
 			sourceTree = "<group>";
 		};
+		3B1B025A625A48FA0805AEC4438F0483 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				6A4BC68D48F383B213F503094AD9E6B0 /* GapoSDK-xcframeworks.sh */,
+				374DF0963CE3D9782F6CF4E4FBECE2E7 /* GapoSDK.debug.xcconfig */,
+				501488B19D3EFBDC46AA209D9F80F78E /* GapoSDK.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "DemoApp/Pods/Target Support Files/GapoSDK";
+			sourceTree = "<group>";
+		};
 		3C30E9E8610168A785BE91350B705E76 /* RxDataSources */ = {
 			isa = PBXGroup;
 			children = (
@@ -6972,14 +6983,6 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/RxDataSources";
-			sourceTree = "<group>";
-		};
-		40CAA3D2FEB33ADC1BDA961165B51385 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				CF27DAA1DCE5A810D3BB6D7A2742BB12 /* GapoSDK.podspec */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		4498F172563FD1DB06948EE0E4A62112 /* RxRelay */ = {
@@ -7466,6 +7469,14 @@
 			path = "../Target Support Files/Parchment";
 			sourceTree = "<group>";
 		};
+		5FE24CF798B540EBCB95CD3AC0DC44F1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A5AA7FAF672C363E7D9AEEFAC0BFE808 /* GapoSDK.xcframework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		60B5101347C015456D90BD92C9DC7D89 /* Alamofire */ = {
 			isa = PBXGroup;
 			children = (
@@ -7681,6 +7692,14 @@
 				AB215556F6D41A83CEF51B61E51A0CF3 /* PrivacyInfo.xcprivacy */,
 			);
 			name = Resources;
+			sourceTree = "<group>";
+		};
+		73FD2ACFEB5E1474B7D052D6C3897529 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D9B151A731480FC9CE8DF087E9C77E65 /* GapoSDK */,
+			);
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		74601CD7D198FE04FB2BED32BC201772 /* Support Files */ = {
@@ -8525,17 +8544,6 @@
 			name = Resources;
 			sourceTree = "<group>";
 		};
-		9F144D4D8B8D23C6CEEE719BF17960BF /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				DABDC96D32352B49B37F2093C7840188 /* GapoSDK-xcframeworks.sh */,
-				DA5418704752D97293D980D80C744740 /* GapoSDK.debug.xcconfig */,
-				C155955E1B7746A2CFF718B6D3583DFE /* GapoSDK.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "../GapoSDKPod/DemoApp/Pods/Target Support Files/GapoSDK";
-			sourceTree = "<group>";
-		};
 		9F51D845003FA3D269576B259EDEC15E /* RxGesture */ = {
 			isa = PBXGroup;
 			children = (
@@ -8875,7 +8883,7 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				D66466B38BF653C31737B5E2B3BEFCD1 /* Development Pods */,
+				73FD2ACFEB5E1474B7D052D6C3897529 /* Development Pods */,
 				0656CE04288357F0748AB498835BA03E /* Frameworks */,
 				82D2AC44516A5AF04F119F5F535C7327 /* Pods */,
 				F4CA2C5D1351BC10A8441F8718D4384E /* Products */,
@@ -8965,25 +8973,6 @@
 			path = FirebaseCoreInternal;
 			sourceTree = "<group>";
 		};
-		D3A8A8075522EDF20B83F6EA24709703 /* GapoSDK */ = {
-			isa = PBXGroup;
-			children = (
-				2B46C98B9A089E7F271B3762AA80668F /* Frameworks */,
-				40CAA3D2FEB33ADC1BDA961165B51385 /* Pod */,
-				9F144D4D8B8D23C6CEEE719BF17960BF /* Support Files */,
-			);
-			name = GapoSDK;
-			path = ../../../GapoSDK;
-			sourceTree = "<group>";
-		};
-		D66466B38BF653C31737B5E2B3BEFCD1 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				D3A8A8075522EDF20B83F6EA24709703 /* GapoSDK */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
 		D8FF622D86EC9EB2078E32147721E253 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -8997,6 +8986,17 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/FirebaseCore";
+			sourceTree = "<group>";
+		};
+		D9B151A731480FC9CE8DF087E9C77E65 /* GapoSDK */ = {
+			isa = PBXGroup;
+			children = (
+				5FE24CF798B540EBCB95CD3AC0DC44F1 /* Frameworks */,
+				0453F158E839A01E45187701178474A0 /* Pod */,
+				3B1B025A625A48FA0805AEC4438F0483 /* Support Files */,
+			);
+			name = GapoSDK;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		DF61C22096D404DE4FE615188F477F25 /* Resources */ = {
@@ -15449,7 +15449,7 @@
 		};
 		383DA37276D0D26C040EE368CE12529D /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DA5418704752D97293D980D80C744740 /* GapoSDK.debug.xcconfig */;
+			baseConfigurationReference = 374DF0963CE3D9782F6CF4E4FBECE2E7 /* GapoSDK.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -18038,7 +18038,7 @@
 		};
 		E06673FA6BCA1DE7567ACC490979F23E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C155955E1B7746A2CFF718B6D3583DFE /* GapoSDK.release.xcconfig */;
+			baseConfigurationReference = 501488B19D3EFBDC46AA209D9F80F78E /* GapoSDK.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;

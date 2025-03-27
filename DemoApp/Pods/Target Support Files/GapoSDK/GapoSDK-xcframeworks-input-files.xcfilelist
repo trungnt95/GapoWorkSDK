@@ -1,2 +1,2 @@
 ${PODS_ROOT}/Target Support Files/GapoSDK/GapoSDK-xcframeworks.sh
-${PODS_ROOT}/../../../GapoSDK/GapoSDK.xcframework
+${PODS_ROOT}/../../GapoSDK.xcframework

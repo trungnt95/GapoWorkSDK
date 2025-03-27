@@ -125,7 +125,6 @@ extension UIKit.UIViewController {
   public static let shared: GapoSDK.GapoWork
   public func setup(config: GapoSDK.GapoWorkConfig)
   public func setLanguage(_ language: Swift.String)
-  public func getAppName() -> Swift.String
   public func getUserName() -> Swift.String
   public func setAPNsToken(_ token: Swift.String)
   public func setVoipToken(_ token: Swift.String)
@@ -145,7 +144,14 @@ public struct GapoWorkConfig {
   public var environment: GapoSDK.ProductState
   public var host: Swift.String
   public var hostPrefix: Swift.String?
-  public init(appName: Swift.String, appScheme: Swift.String, host: Swift.String, hostPrefix: Swift.String?, language: Swift.String, environment: GapoSDK.ProductState)
+  public var colorConfig: GapoSDK.GapoWorkColorConfig?
+  public init(appName: Swift.String, appScheme: Swift.String, host: Swift.String, hostPrefix: Swift.String?, language: Swift.String, environment: GapoSDK.ProductState, colorConfig: GapoSDK.GapoWorkColorConfig? = nil)
+}
+public struct GapoWorkColorConfig {
+  public var primaryColor: Swift.String
+  public var secondaryColor: Swift.String
+  public var linkPrimaryColor: Swift.String
+  public init(primaryColor: Swift.String, secondaryColor: Swift.String, linkPrimaryColor: Swift.String)
 }
 public enum ProductState : Swift.String {
   case staging
@@ -162,12 +168,6 @@ extension UIKit.UIEdgeInsets : Swift.Hashable {
   public var hashValue: Swift.Int {
     get
   }
-}
-@_hasMissingDesignatedInitializers public class GapoWorkSDK {
-  public static let shared: GapoSDK.GapoWorkSDK
-  public func test()
-  public func loadImage(urlString: Swift.String, to imageView: UIKit.UIImageView)
-  @objc deinit
 }
 extension CoreFoundation.CGSize : Swift.Hashable {
   public func hash(into hasher: inout Swift.Hasher)

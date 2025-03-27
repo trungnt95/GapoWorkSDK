@@ -29,7 +29,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func login() {
-        let token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYXBvd29yay52biIsIm1zaXNkbiI6Ijg0OTc2Nzk2MDYwIiwiZnVsbE5hbWUiOiJCw7lpIFF1YW5nIFZpbmgiLCJhdmF0YXIiOiJodHRwczovL2ltYWdlLTEuZ2Fwb3dvcmsudm4vaW1hZ2VzLzI1OGE0MDI1LWZmM2UtNDJkMC05ZWNlLWM0NTFkN2FkM2UwNS5qcGVnIiwiYmlydGhkYXkiOiIxOTg5LTAzLTE4IiwiZ2VuZGVyIjoiMCIsImV4cCI6MTc0MTc3MzQ0Mn0.v4Zv99KTrAk7b7ee_EMKat426PXLKNA1BpSDWgtPxG8"
+        let token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYXBvd29yay52biIsIm1zaXNkbiI6Ijg0OTc2Nzk2MDYwIiwiZnVsbE5hbWUiOiJCw7lpIFF1YW5nIFZpbmgiLCJhdmF0YXIiOiJodHRwczovL2ltYWdlLTEuZ2Fwb3dvcmsudm4vaW1hZ2VzLzI1OGE0MDI1LWZmM2UtNDJkMC05ZWNlLWM0NTFkN2FkM2UwNS5qcGVnIiwiYmlydGhkYXkiOiIxOTg5LTAzLTE4IiwiZ2VuZGVyIjoiMCIsImV4cCI6MTc0Mzk0MjUyNH0.wwnU6XtdFrv-7eXIkzeymJj3BgBHPtNX559HLH1sAYE"
         GapoWork.shared.exchangeToken(token: token) { [weak self] data in
             if data != nil {
                 self?.didLogin()
