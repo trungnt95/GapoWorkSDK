@@ -42,11 +42,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		/okoD5M0spLfzk997Lj3DgBZC0U=
+		vM+PehdE6AMjatuIW/jC0kzneYs=
 		</data>
 		<key>AudioRecordingView.nib</key>
 		<data>
-		ckXCQhqtZOITCvKINBrx7M/rhes=
+		jp40cuNJ2A4cls8cq2JmuXLwu4A=
 		</data>
 		<key>AudioVisualizationView.nib</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>C2CallRateViewController.nib</key>
 		<data>
-		rTSfmlklXLNgSZpf3ItvcYus98o=
+		8l5j4Irl2F/3ASV9i7cPC8D9z5E=
 		</data>
 		<key>C2CallingVC.nib</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>CallLoggerDetailController.nib</key>
 		<data>
-		E0YM9HombQrCmScWVStib7vophU=
+		jzTTlpMKtcRiKugVfVPIhXHfbGg=
 		</data>
 		<key>CallMemberCell.nib</key>
 		<data>
@@ -206,7 +206,7 @@
 		</data>
 		<key>ChatFileTableCell.nib</key>
 		<data>
-		S5xAa09LokZ6D3ciUb1Uyl/1r5w=
+		fcHMurrFrBaMa4wm7o3CFDJhHFw=
 		</data>
 		<key>ChatFolderCollectionCell.nib</key>
 		<data>
@@ -238,11 +238,11 @@
 		</data>
 		<key>ChatInputBar.nib</key>
 		<data>
-		Wg2oGOqN8zVkpG4aXC2Oy3N+9rU=
+		GBu6SnR6Zqk7D/msntNL5IxAakU=
 		</data>
 		<key>ChatLinkTableCell.nib</key>
 		<data>
-		CMOC/NMJwBuHdNOi857QKzUT098=
+		mF/PxPLsTqu3BFKu07af/nENevs=
 		</data>
 		<key>ChatMediaCollectionEmptyView.nib</key>
 		<data>
@@ -606,11 +606,11 @@
 		</data>
 		<key>GPTextAreaView.nib</key>
 		<data>
-		pzGn4VqJwXVh43UtloKUNvfEZe0=
+		l4Zyqd4hiiAFCAOQJ1R3DCiGvpU=
 		</data>
 		<key>GPTextEditorView.nib</key>
 		<data>
-		tz5cdR/2ROgCeAKLADAMbTxIQh4=
+		RWP/l3FGI4DQg1OayuxcBaU8Fvo=
 		</data>
 		<key>GPTextField.nib</key>
 		<data>
@@ -682,7 +682,7 @@
 		</data>
 		<key>GroupChatSettingLibraryTableViewCell.nib</key>
 		<data>
-		RRY7/ulmKZTqrBQ1zc9uAJjousI=
+		ZKKRX5DVXLnpRgpI8PuknKLcWYk=
 		</data>
 		<key>GroupChatSettingSecurityLinkCell.nib</key>
 		<data>
@@ -690,11 +690,11 @@
 		</data>
 		<key>GroupChatSettingSecuritySubApprovalTableViewCell.nib</key>
 		<data>
-		14hGH+yI9PeLkbWnFgQgRJwogPs=
+		wx/seDELnPF4HdKP5lIDuUukA7A=
 		</data>
 		<key>GroupChatSettingSecurityTableViewCell.nib</key>
 		<data>
-		DiKvQE28pd/BwCKFPr9t0D5FeJ8=
+		+rclYiSFZD7fcSdL4jBgEzfi268=
 		</data>
 		<key>GroupChatSettingSecurityViewController.nib</key>
 		<data>
@@ -710,7 +710,7 @@
 		</data>
 		<key>GroupDescVC.nib</key>
 		<data>
-		aE/22Tr+0+m9NV3gMY572rdK1Aw=
+		B8nc8f8ppM/kmNtsq853dU/OC1I=
 		</data>
 		<key>GroupFriendCell.nib</key>
 		<data>
@@ -762,7 +762,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9nQEuXIomRpbkwhLngzPBzV/TbI=
+		CTzFRxkIqqoECd5UML/5P93reio=
 		</data>
 		<key>InviteUserEmptyCell.nib</key>
 		<data>
@@ -860,29 +860,25 @@
 		<data>
 		F8CE38ixKBiNIwHT+YWlo/GUj7Q=
 		</data>
-		<key>Modules/GapoSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<data>
-		0gksngJvtkgjOJzzVyFghsawEHw=
-		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		lHnoCmSRjJTsk0shHeI3oDyvF4o=
+		x5FmkKFlnbLxKnJYr6t1Dr+P7lY=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		USkxgKhq9JPJUCnnZkPvaM3/3nE=
+		jB1iw26AorNETwidzWSZn68U+gI=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		ErdjXN4e3ApQJWOVFuG3dYsJOZg=
+		zhei6tN2Z5hQWzro0ZiKMifbHRs=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		USkxgKhq9JPJUCnnZkPvaM3/3nE=
+		jB1iw26AorNETwidzWSZn68U+gI=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		NRxS5S+7kuX1+naF27rN5NfX7JQ=
+		P6jO1Yv5pakjdjsKZFi73norCPU=
 		</data>
 		<key>MovableChatFolderViewController.nib</key>
 		<data>
@@ -998,7 +994,7 @@
 		</data>
 		<key>QuickSettingThreadTableViewCell.nib</key>
 		<data>
-		uDQFn/Tf7QIJAfA3N8ID3rCmnEU=
+		LO+Syo4jLYYcE0byRvogWV1C+30=
 		</data>
 		<key>QuickSettingThreadViewController.nib</key>
 		<data>
@@ -1014,7 +1010,7 @@
 		</data>
 		<key>RecentCallController.nib</key>
 		<data>
-		N9av2JlH9Yjf6y8v2yhtTg9u/nQ=
+		AjovY6ghb8wsnAjgapMy7VS/UKw=
 		</data>
 		<key>RecentCallTableCell.nib</key>
 		<data>
@@ -1034,7 +1030,7 @@
 		</data>
 		<key>RequestPendingApprovalTableViewCell.nib</key>
 		<data>
-		FnCJZmcHRi0EmAbGFMtuuIVGnmw=
+		UKzMT8z66mjJoPcsrg15IozmJlg=
 		</data>
 		<key>RequestPendingApprovalViewController.nib</key>
 		<data>
@@ -1150,7 +1146,7 @@
 		</data>
 		<key>SearchChooseMemberTableViewCell.nib</key>
 		<data>
-		11iRzMDligxwbKQtM9x6rOPht1w=
+		tyyOlkG+f3AUXzeuc09dpBpZNa0=
 		</data>
 		<key>SearchChooseMemberViewController.nib</key>
 		<data>
@@ -1230,7 +1226,7 @@
 		</data>
 		<key>StrangerInputBar.nib</key>
 		<data>
-		PPn13UnQAjSXv7JEcTdtxVcpyE8=
+		gn0oXE8x0regvSQTxkjNspQeKgc=
 		</data>
 		<key>SubThreadHeaderView.nib</key>
 		<data>
@@ -1254,7 +1250,7 @@
 		</data>
 		<key>ThreadWhiteListOption.nib</key>
 		<data>
-		w3Xn0M/OZW9g+fTaFMq8JkBt5qg=
+		X1OiwglTlfqtNnQfyJUjp5trbog=
 		</data>
 		<key>ToolTips.nib</key>
 		<data>
@@ -1278,11 +1274,11 @@
 		</data>
 		<key>VideoPostCell.nib</key>
 		<data>
-		8rKv5pTxNbitPrzUimJEDLkXSg8=
+		6N2kNvoT2DFdSPdDnx9aYYyX5is=
 		</data>
 		<key>VoiceBubbleView.nib</key>
 		<data>
-		ugwsM9cWnwd4NCuGlucTvCB3UpY=
+		dSZXOHZsSKKkf+PVSPDBt/aUPrI=
 		</data>
 		<key>VoicePlayingViewController.nib</key>
 		<data>
@@ -3162,14 +3158,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4wAq2kRMBind56Pu1xmlPQWnIJCMS6xAGJCZBgQJWio=
+			DwPbboUnbpgvTDwCBUdoXjsxVxt0DrkHEPC4D2YAAl0=
 			</data>
 		</dict>
 		<key>AudioRecordingView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			17Y3dMr8DzyCJwVXgc10CHAJUdyR/BfCAH0uVHzmGDc=
+			Ss21BBQ/qGQsz4gZ/BF7xbFdRWndidsQEoraeCEGuj4=
 			</data>
 		</dict>
 		<key>AudioVisualizationView.nib</key>
@@ -3218,7 +3214,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eoBKU5eLa27vLjbHukdYFhXISCXC+QgduN+rYek8OIE=
+			QeAn0zz7TxRBWTzYqhQbK0wxdn57FGjyVTvA9saxSeg=
 			</data>
 		</dict>
 		<key>C2CallingVC.nib</key>
@@ -3302,7 +3298,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JVQpTReh35qwPA2eoCHxAS6Z7PBA51mn2HpHkqpK1tw=
+			lYS6p0CM+PDFEGO4/m0R2rkTn/fqWZpRopV7w+ck07s=
 			</data>
 		</dict>
 		<key>CallMemberCell.nib</key>
@@ -3449,7 +3445,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LyGBrCz/KLxpQx0+UvanV8xb9D6acxq9V6fyN99KxoQ=
+			mNaQQPp+kpJlie15/XMgo0JiSyr+EmpOaEHv+cOCDs8=
 			</data>
 		</dict>
 		<key>ChatFolderCollectionCell.nib</key>
@@ -3505,14 +3501,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XZVkK3sOqp2Y1lQsV6Ynf3L7b+ich9VytQetZQpZsXI=
+			YlHEfFrodMY4porKOeGMca+5oMvSHigyw1gYsNqv1f0=
 			</data>
 		</dict>
 		<key>ChatLinkTableCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OZoMzmBTVh7tG2GWu6JZBpjJQ5Iczd74l+CTPc97XjQ=
+			VcRvFa4MAPKJbJRNsrlwdkLYccvGSEZUsewAmXh2Xyw=
 			</data>
 		</dict>
 		<key>ChatMediaCollectionEmptyView.nib</key>
@@ -4149,14 +4145,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7GuahGB0cCiBf2RyG/JTTBGlsxrzvPqBKeaPjfBBYik=
+			M3bi0SwoTeh2Wl3QiJV7p4wDTeJXj3tPrmxHbk7L0PA=
 			</data>
 		</dict>
 		<key>GPTextEditorView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ghfDagkW2PXeZ8LPJyTzpfAEa85KOce8UUxH7shywt8=
+			GCPH/3f2Nqs+cUNop7/GzIivML2Hwaorz/DJdLXLhrc=
 			</data>
 		</dict>
 		<key>GPTextField.nib</key>
@@ -4282,7 +4278,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e2y9LTVSYi31J2uDR8RAQXa7NZ/9l+o/8xZXBNHVk10=
+			5EGOsOf8rNyvos3gBJbwPGRmCjnJcCifmeGvykCooOs=
 			</data>
 		</dict>
 		<key>GroupChatSettingSecurityLinkCell.nib</key>
@@ -4296,14 +4292,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			czi1/kBtUj7QvlQUAymPxqv4zMIZkKZ9m10NMyzFsyM=
+			cEmfWujvFKVDBo+Y2FQmuiUCnzkIaG4YRsOwXaN6xgc=
 			</data>
 		</dict>
 		<key>GroupChatSettingSecurityTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p2bg7E4qHLZHYY62eMywpEY/7A/JVi/6c9GwbEQL74U=
+			jiZ/B4RdEEH2w1W5rczK4hq4Y5e8FrG3fBFKXvAJu2E=
 			</data>
 		</dict>
 		<key>GroupChatSettingSecurityViewController.nib</key>
@@ -4331,7 +4327,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zrF1Hr/091ibwS7mpQRz0a6C/DL6+vH9yhlY670I4+Q=
+			dXxm13b5k6BPyjYiSQ96uoBQYY29iXhcBGzx9kybl+4=
 			</data>
 		</dict>
 		<key>GroupFriendCell.nib</key>
@@ -4586,46 +4582,39 @@
 			uaIP4RRUZvlyYSd9CClfM50n+SGgWIMzGZ/tqAFy1DQ=
 			</data>
 		</dict>
-		<key>Modules/GapoSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fUgW3H3bsCefZbOUoZ4GbV4hxWwx4QWcjHc1+PS9xgs=
-			</data>
-		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Opc5jgVZTjpXzwzS+cU4FY6W3DXeusVQhPjsHleYBc4=
+			bds6T5w+tXAJZkP/PWZAk5Yt2mpJJB6QjJoVi2WVFEQ=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t+6yQXJsW2U4ub4bCEZFA5Dr0fB/beoU5aLyYfjcAe4=
+			a82n37BARRDYR0KfCoOKW+x/edx+5ANb22+BB4eduVk=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kmu1rVGEPzzRHSa2URvaPNz56mPKkrsTu9zWUU5504s=
+			70/Wc3xW++cGXoDDyNpBsor/8QVQbj893Mb0q9qZsYQ=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t+6yQXJsW2U4ub4bCEZFA5Dr0fB/beoU5aLyYfjcAe4=
+			a82n37BARRDYR0KfCoOKW+x/edx+5ANb22+BB4eduVk=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iJmNxPBXvE+U/ATWasDKp+n11a/eLbfz7DuqVEBjIJk=
+			L0BjiIEGs6U+SCQBvZ/kjKCG6qMEDQPCwK9DjhOy1rE=
 			</data>
 		</dict>
 		<key>MovableChatFolderViewController.nib</key>
@@ -4828,7 +4817,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uj+f8Ap7M9KbkOgBDIn03M0AazNSiSYHIuMx6I6J+vo=
+			qLtDPb6R1glw/E9ze9RLYI/ru303SE5GZi9pjaRG5pk=
 			</data>
 		</dict>
 		<key>QuickSettingThreadViewController.nib</key>
@@ -4856,7 +4845,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zYegRuPMT4eZF8sIQAWkUU9ajtYbNzcd7vfH6oQ8rV0=
+			HDQfhqWQmAE4ra98SZWhKiA9uCAWFhzJ8V1kNpgI/zE=
 			</data>
 		</dict>
 		<key>RecentCallTableCell.nib</key>
@@ -4891,7 +4880,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RK9VoeiT7hA3XwP1fScfA8Q1Vfb35E9UrKGsrplp4T0=
+			qPNTPz3QXqfZS9SZS783qxSxyMLvLeEVpmCKqDEVhZg=
 			</data>
 		</dict>
 		<key>RequestPendingApprovalViewController.nib</key>
@@ -5094,7 +5083,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kQThte/AMeF6pM3cqkx8ETX68J2LrWZsmR5Khff5HxQ=
+			waSMV4FQSa70bkdSRj8oJAv3V3aNfdj1XrGE58hyL7c=
 			</data>
 		</dict>
 		<key>SearchChooseMemberViewController.nib</key>
@@ -5234,7 +5223,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xZRo2phL2WwajozE4f/y3YCQ5QpfkVEjvPI3cs/Qap8=
+			Q8cwWkuoZsws4J4SJtdvj33CjP2afpnkkX7AVHahTU4=
 			</data>
 		</dict>
 		<key>SubThreadHeaderView.nib</key>
@@ -5276,7 +5265,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1kun9V0eflKrCkz71X4f1lEfPkmkYfoOztIdbtpoInw=
+			ENMBfVelAEuZYmqa5dBbJLht4Mzi/rnV+Llxjl8Pl5g=
 			</data>
 		</dict>
 		<key>ToolTips.nib</key>
@@ -5318,14 +5307,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EH2v2HwkI0eD/jg3t0EGrl/6sCHHX53U+FJpBuzvReA=
+			hO7uNFQydw7/RQXGVFcjipFP+5cSsWz4gXylGJAn5bo=
 			</data>
 		</dict>
 		<key>VoiceBubbleView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eQ4Ig3WL5UmcJ6Ms+J+U80exqMDvj8bcrsymxsYTKqI=
+			KJshOotZb+p1k/klRruYPJVffRoiGo73d6vDDHQXXlw=
 			</data>
 		</dict>
 		<key>VoicePlayingViewController.nib</key>
