@@ -136,7 +136,13 @@ extension UIKit.UIViewController {
   public func presentChat()
   public func showIncomingCall(payload: [Swift.String : Any], completion: @escaping () -> Swift.Void)
   public func logout()
-  public func getUnreadCount(completion: @escaping (Swift.Int?) -> Swift.Void)
+  public func getUnreadCount(completion: @escaping (Swift.Int) -> Swift.Void)
+  public var onUnreadCountChanged: ((Swift.Int) -> Swift.Void)? {
+    get
+    set
+  }
+  public func isValidUser() -> Swift.Bool
+  public func showLogger()
   @objc deinit
 }
 public struct GapoWorkConfig {
@@ -174,6 +180,38 @@ extension UIKit.UIEdgeInsets : Swift.Hashable {
 extension CoreFoundation.CGSize : Swift.Hashable {
   public func hash(into hasher: inout Swift.Hasher)
 }
+public enum ContactPermissionStatus {
+  case authorized
+  case limited
+  case denied
+  case notDetermined
+  case restricted
+  public static func == (a: GapoSDK.ContactPermissionStatus, b: GapoSDK.ContactPermissionStatus) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum ContactPermissionCheckResult {
+  case granted
+  case limitedAccess
+  case deniedWithPreviousSyncData
+  case deniedWithoutSyncData
+  case restricted
+  case error(any Swift.Error)
+}
+@_hasMissingDesignatedInitializers public class ContactPermissionManager {
+  public static let shared: GapoSDK.ContactPermissionManager
+  public func isContactAccessPermitted() -> Swift.Bool
+  public func hasEverSyncedContacts() -> Swift.Bool
+  public func checkPermissionStatus() -> GapoSDK.ContactPermissionStatus
+  public func canSyncNewContacts() -> Swift.Bool
+  public func checkAndRequestPermission(from viewController: UIKit.UIViewController, completion: @escaping (GapoSDK.ContactPermissionCheckResult) -> Swift.Void)
+  public func checkPermissionForSync(from viewController: UIKit.UIViewController, completion: @escaping (Swift.Bool) -> Swift.Void)
+  public func openAppSettings()
+  public func showDeniedMessage(from viewController: UIKit.UIViewController, completion: @escaping () -> Swift.Void)
+  @objc deinit
+}
 infix operator >=~ : DefaultPrecedence
 precedencegroup DisposablePrecedence {
   lowerThan: DefaultPrecedence
@@ -209,3 +247,5 @@ extension FittedSheets.SheetViewController {
 extension GapoSDK.ProductState : Swift.Equatable {}
 extension GapoSDK.ProductState : Swift.Hashable {}
 extension GapoSDK.ProductState : Swift.RawRepresentable {}
+extension GapoSDK.ContactPermissionStatus : Swift.Equatable {}
+extension GapoSDK.ContactPermissionStatus : Swift.Hashable {}
