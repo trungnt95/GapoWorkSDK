@@ -42,7 +42,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		jxxspnXwjc9lR539A2PRFZCj+7U=
+		2QntiV9kOpRPlRH0KcHIG7qRsHk=
 		</data>
 		<key>AudioRecordingView.nib</key>
 		<data>
@@ -370,7 +370,7 @@
 		</data>
 		<key>ConversationsViewController.nib</key>
 		<data>
-		2/LJaO9nfy3vo1Y0rgQlpu42jLQ=
+		ZMTmHoRRqC/1CtKcbcVfRr5oizw=
 		</data>
 		<key>CreateGroupFriendCell.nib</key>
 		<data>
@@ -566,7 +566,7 @@
 		</data>
 		<key>GPPhotosAccessIOS14View.nib</key>
 		<data>
-		m7e9fjeSUszIZ9qg0vRfQNOMTjo=
+		QOqyBSkeEE28cs05VZAdSPI5+fc=
 		</data>
 		<key>GPPhotosPermissionHeader.nib</key>
 		<data>
@@ -766,7 +766,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CTzFRxkIqqoECd5UML/5P93reio=
+		7oTjpSWhEWdSO03KGE2Tw3LA5IE=
 		</data>
 		<key>InviteUserEmptyCell.nib</key>
 		<data>
@@ -866,7 +866,7 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		+XXUO3qwr9EPgChZum58gpyycxs=
+		lgs//PnmuAph487s3Wl0UefBleU=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -882,7 +882,7 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		uTl5lu3Z3zXNzKpy4uk/Md+wjKg=
+		5kDOcnCcfr2v01oGomqo87BoKHA=
 		</data>
 		<key>MovableChatFolderViewController.nib</key>
 		<data>
@@ -1393,7 +1393,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			puGNaZ0cy0JNiNgKvfR889sMBtM=
+			T+P5jGeamuTw61VwDLnIKISUZWU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3095,7 +3095,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ma6+kFmFNC2TYhot+ar8tAOM7/c=
+			jOdzFQu2ZORU3mLMNsHJ2lvlnoU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3170,7 +3170,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VIQsxvvmRPRbQHDQup7uiV2zoSlby5uueAAjgiol+84=
+			CYf9W3zqxYXbaVJ/QxAahvdZv5bNdbLpSWuSDixkTQg=
 			</data>
 		</dict>
 		<key>AudioRecordingView.nib</key>
@@ -3744,7 +3744,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7iEbjA9nG2tnl+V+IXAfaOTRmKUQ40tGDKj+n3I44DQ=
+			yfCl+D9qgJr9yWq6KuDYp5uE4xiQVqma5FKs4Pve+cw=
 			</data>
 		</dict>
 		<key>CreateGroupFriendCell.nib</key>
@@ -4087,7 +4087,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sHcK3Pa5Xj4z3kA1LhFBuYgQJ3WSbzu8Tfx/opDyPzY=
+			kAP/RdjaaHBHpDhmr659tiLGZNN1ix9fSGv3ulse9wo=
 			</data>
 		</dict>
 		<key>GPPhotosPermissionHeader.nib</key>
@@ -4605,7 +4605,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tLeRP+le1e8t1qeFM5cUILCswK+gUgjm56zy24RxTsc=
+			9xsjFWPeWSDq2Cjno0ycN8VjxnvNACiUCdFUKdP/Lqo=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -4633,7 +4633,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OSsnDFQibiJOftuOfSfoqQVT/qDAx3jKbgiBXWNS7/Y=
+			/yWdn1496PLBwHAijdEcb49xfARknsJWt1lORXPEZMU=
 			</data>
 		</dict>
 		<key>MovableChatFolderViewController.nib</key>
@@ -5517,7 +5517,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			febPncU2popKgPFbX++GXTv6R7thGbJrNHvPK1SJxNs=
+			ynXSRw4gLB+4y7GfLVNpNeBDnlI521jthMkgwvTu3r4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -8482,7 +8482,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t/dqLxZXwfyyWDG4WPJrmOJt7gmkKQ8A3LikO2jTpJ4=
+			7fXRhP6aUofS1RYzhEnE0wtYQVT1wcq8Q1F5mvEY8+Q=
 			</data>
 			<key>optional</key>
 			<true/>
