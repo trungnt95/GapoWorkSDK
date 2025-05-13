@@ -42,7 +42,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		vM+PehdE6AMjatuIW/jC0kzneYs=
+		2QntiV9kOpRPlRH0KcHIG7qRsHk=
 		</data>
 		<key>AudioRecordingView.nib</key>
 		<data>
@@ -332,6 +332,10 @@
 		<data>
 		fi6GeqB2+xCKu7FNLQXb8dTPZUE=
 		</data>
+		<key>ContactPermissionGuideView.nib</key>
+		<data>
+		tnR8obcn7ufRkcXFX4l+ChPEdOI=
+		</data>
 		<key>ConversationCell.nib</key>
 		<data>
 		TNdnGhgDNnkNNmNs5R2PiupO8BI=
@@ -366,7 +370,7 @@
 		</data>
 		<key>ConversationsViewController.nib</key>
 		<data>
-		a7V9Dh9z+tgUaOgBf/X4dn9jQHQ=
+		ZMTmHoRRqC/1CtKcbcVfRr5oizw=
 		</data>
 		<key>CreateGroupFriendCell.nib</key>
 		<data>
@@ -562,7 +566,7 @@
 		</data>
 		<key>GPPhotosAccessIOS14View.nib</key>
 		<data>
-		m7e9fjeSUszIZ9qg0vRfQNOMTjo=
+		QOqyBSkeEE28cs05VZAdSPI5+fc=
 		</data>
 		<key>GPPhotosPermissionHeader.nib</key>
 		<data>
@@ -762,7 +766,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CTzFRxkIqqoECd5UML/5P93reio=
+		7oTjpSWhEWdSO03KGE2Tw3LA5IE=
 		</data>
 		<key>InviteUserEmptyCell.nib</key>
 		<data>
@@ -862,23 +866,23 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		x5FmkKFlnbLxKnJYr6t1Dr+P7lY=
+		R1UwUQ45s0vXCqQJCOsOi9w1GUc=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		jB1iw26AorNETwidzWSZn68U+gI=
+		Ntn6MLo9Dd0ww4Ijpzghnj5y7TA=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		zhei6tN2Z5hQWzro0ZiKMifbHRs=
+		yRnPlhdBjKMLNk1kl8T05q0GZzQ=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		jB1iw26AorNETwidzWSZn68U+gI=
+		Ntn6MLo9Dd0ww4Ijpzghnj5y7TA=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		P6jO1Yv5pakjdjsKZFi73norCPU=
+		Y8z6KGG+OGse7p8fgLy4IILhLd8=
 		</data>
 		<key>MovableChatFolderViewController.nib</key>
 		<data>
@@ -1256,6 +1260,14 @@
 		<data>
 		KrXfDlIXGkksPLv3K6VpXw0YH40=
 		</data>
+		<key>TopMessageNotificationView.nib</key>
+		<data>
+		Y0GmPvALiA3WwO91DqLzXSJvU6I=
+		</data>
+		<key>TopNormalNotificationView.nib</key>
+		<data>
+		+djkkCvLFxllr2yZeOYkfjGFGDc=
+		</data>
 		<key>TypingView.nib</key>
 		<data>
 		e/xHPBhuZdQ+WGyaBlToxsDdT4E=
@@ -1263,6 +1275,14 @@
 		<key>UserCardView.nib</key>
 		<data>
 		xM2hxm4A6yZdoLRG4/CczQ22mgw=
+		</data>
+		<key>UserContactCell.nib</key>
+		<data>
+		0UAwGIRW/nJ0bxaD89nsDkC601w=
+		</data>
+		<key>UserContactListController.nib</key>
+		<data>
+		UQrYlO8DWZbnZD3SrKS0CqxQR/M=
 		</data>
 		<key>VerticalNameCard.nib</key>
 		<data>
@@ -1381,7 +1401,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PpZX2yJDJDwgEXLbAuuMhhjnTHk=
+			T+P5jGeamuTw61VwDLnIKISUZWU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3083,7 +3103,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kooQmBwIqFDMKXzQs8sCqh6w7TM=
+			jOdzFQu2ZORU3mLMNsHJ2lvlnoU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3158,7 +3178,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DwPbboUnbpgvTDwCBUdoXjsxVxt0DrkHEPC4D2YAAl0=
+			CYf9W3zqxYXbaVJ/QxAahvdZv5bNdbLpSWuSDixkTQg=
 			</data>
 		</dict>
 		<key>AudioRecordingView.nib</key>
@@ -3665,6 +3685,13 @@
 			hJSvp7poD48XPa+stobVh+E21o+3Bf1QOxorGjR3PuA=
 			</data>
 		</dict>
+		<key>ContactPermissionGuideView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			39ZPBxOBgTGaMOnsFhlfDxMlfw/vg42woUGVuyD0jts=
+			</data>
+		</dict>
 		<key>ConversationCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -3725,7 +3752,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZqlWQvNdQ2qQSwt/v18g7+rENzKx+dtwzWf2583TfB0=
+			yfCl+D9qgJr9yWq6KuDYp5uE4xiQVqma5FKs4Pve+cw=
 			</data>
 		</dict>
 		<key>CreateGroupFriendCell.nib</key>
@@ -4068,7 +4095,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sHcK3Pa5Xj4z3kA1LhFBuYgQJ3WSbzu8Tfx/opDyPzY=
+			kAP/RdjaaHBHpDhmr659tiLGZNN1ix9fSGv3ulse9wo=
 			</data>
 		</dict>
 		<key>GPPhotosPermissionHeader.nib</key>
@@ -4586,35 +4613,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bds6T5w+tXAJZkP/PWZAk5Yt2mpJJB6QjJoVi2WVFEQ=
+			gaXUZrEdeDG0htWuL5/mKMfotkUwlSOy01Q1ssxJSTM=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a82n37BARRDYR0KfCoOKW+x/edx+5ANb22+BB4eduVk=
+			U1ZKqoIafOvHvMHVc7pjKfpUSrDtYcW4+dqBH06OpRY=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			70/Wc3xW++cGXoDDyNpBsor/8QVQbj893Mb0q9qZsYQ=
+			8gfhIehyOKAcVg2+yqtCuyoRpCLlhBOIEw3XEryXwy4=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a82n37BARRDYR0KfCoOKW+x/edx+5ANb22+BB4eduVk=
+			U1ZKqoIafOvHvMHVc7pjKfpUSrDtYcW4+dqBH06OpRY=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L0BjiIEGs6U+SCQBvZ/kjKCG6qMEDQPCwK9DjhOy1rE=
+			tO4qsmZIM2hJc6H3FiUQVygvY/YyO7/Wbg3+njBxwp4=
 			</data>
 		</dict>
 		<key>MovableChatFolderViewController.nib</key>
@@ -5275,6 +5302,20 @@
 			bsKqkRz6WtjWgLkfoirmzEEVkVc1O2bW3xLwUbHygb4=
 			</data>
 		</dict>
+		<key>TopMessageNotificationView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Nn7nOeY4Vym/1Acjh0BioUB8k6Tw9gboobuJ5O9U8xE=
+			</data>
+		</dict>
+		<key>TopNormalNotificationView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Qf1KQgvEUUug6C1730y0agAfFRFqFmXF95rv+NlTWFs=
+			</data>
+		</dict>
 		<key>TypingView.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -5287,6 +5328,20 @@
 			<key>hash2</key>
 			<data>
 			x4Tfh8kkNH0wzy+7OpMhscs3Bk+Hhk3XTVFyF9UiLus=
+			</data>
+		</dict>
+		<key>UserContactCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cbV7lD6SVCjsmMIt86Q3sjExTDVezRq0Ig7k7D9JPm8=
+			</data>
+		</dict>
+		<key>UserContactListController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7giBSe6NZ+AnrZIu5d32uHdVgSCAPw2/+ZeugVurZ7I=
 			</data>
 		</dict>
 		<key>VerticalNameCard.nib</key>
@@ -5484,7 +5539,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x0JbwCzGT1jEnBrg7wlCwfS3Jt4r53ZJa8ZF88VqJno=
+			ynXSRw4gLB+4y7GfLVNpNeBDnlI521jthMkgwvTu3r4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -8449,7 +8504,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GEFFHcMZmPcdIe2zwWc07NreF7h01DxQVVjT7yhagFE=
+			7fXRhP6aUofS1RYzhEnE0wtYQVT1wcq8Q1F5mvEY8+Q=
 			</data>
 			<key>optional</key>
 			<true/>
