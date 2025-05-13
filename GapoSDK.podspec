@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
   spec.name = "GapoSDK"
 
-  spec.version = "1.0.1"
+  spec.version = "1.0.2"
 
   spec.summary = "A description of Gapo SDK."
 
@@ -38,5 +38,7 @@ Pod::Spec.new do |spec|
   spec.dependency 'SkeletonView', '1.30.4'
   spec.dependency 'PromiseKit', '6.13.1'
   spec.dependency 'Parchment', '3.2.0'
+  spec.dependency 'SwiftEntryKit', '2.0.0'
+  spec.dependency 'Kingfisher', '4.10.1'
   
 end

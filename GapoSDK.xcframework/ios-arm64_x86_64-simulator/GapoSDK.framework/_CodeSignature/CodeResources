@@ -866,11 +866,11 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		bd3+lKnaydV/vDh/CqPiR1IqWIU=
+		KAN5MNtRaVUfhALZ5Z3lAuG/3/g=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Br1+O27EHWc6q47ZFhw6GYr5Qy4=
+		MlFk5HRgnW41TizBrynZOLDIws0=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -878,19 +878,19 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Br1+O27EHWc6q47ZFhw6GYr5Qy4=
+		MlFk5HRgnW41TizBrynZOLDIws0=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		85dH0W6RQbl87HWDwb5GNWXr+hw=
+		bCypDaVU3kJXq5H/Z+R7esOSzTY=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		bd3+lKnaydV/vDh/CqPiR1IqWIU=
+		KAN5MNtRaVUfhALZ5Z3lAuG/3/g=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		VdvT5SRI3F7tBUQiUkCfyBYVSX8=
+		M9KYXvT7sVEopGA257FJszDaDG4=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -898,11 +898,11 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		VdvT5SRI3F7tBUQiUkCfyBYVSX8=
+		M9KYXvT7sVEopGA257FJszDaDG4=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6glKIRugDTozuKdWhlnaIrwg6UE=
+		EnP/QzZzdD95BBgmrW1muU7FMXc=
 		</data>
 		<key>MovableChatFolderViewController.nib</key>
 		<data>
@@ -1279,6 +1279,14 @@
 		<key>ToolTips.nib</key>
 		<data>
 		KrXfDlIXGkksPLv3K6VpXw0YH40=
+		</data>
+		<key>TopMessageNotificationView.nib</key>
+		<data>
+		Y0GmPvALiA3WwO91DqLzXSJvU6I=
+		</data>
+		<key>TopNormalNotificationView.nib</key>
+		<data>
+		+djkkCvLFxllr2yZeOYkfjGFGDc=
 		</data>
 		<key>TypingView.nib</key>
 		<data>
@@ -4625,14 +4633,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kVZ6ds8ePD7S1FmL8zl5OCTILy2lzNPSKl84rL/r7p0=
+			ZVfmMwQMc+kjtGBCiIHU5dl0DhSGGS3E221auNYVJKI=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fp7qC9dqz24zDG0D3B79kMuS6IBRPUXSh858S+8Cbjo=
+			CUXnOAtX5DM6Z5QsA+F+HQyZVJeR81YHjMK3kpnLQ0k=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -4646,28 +4654,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fp7qC9dqz24zDG0D3B79kMuS6IBRPUXSh858S+8Cbjo=
+			CUXnOAtX5DM6Z5QsA+F+HQyZVJeR81YHjMK3kpnLQ0k=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eQR4mOUlivSu+4Sfkdc2QpMOj4AL2JkhaBhkNrUUTPY=
+			1OgUz8v6ZKxizQpxvo61GDal83bA/7azlAl1aJSAiNU=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kVZ6ds8ePD7S1FmL8zl5OCTILy2lzNPSKl84rL/r7p0=
+			ZVfmMwQMc+kjtGBCiIHU5dl0DhSGGS3E221auNYVJKI=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LR++MbvWjjvX1g7yWyj/DHXNUkXwb4+VKGfBZiuxF/w=
+			GbIK5i+/3L8k2ytDQcO5e02M87BN2+f6CKNnmrG4bIE=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -4681,14 +4689,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LR++MbvWjjvX1g7yWyj/DHXNUkXwb4+VKGfBZiuxF/w=
+			GbIK5i+/3L8k2ytDQcO5e02M87BN2+f6CKNnmrG4bIE=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k9tWqBmbOCG3dhtDMR3EdOeN8+vATVEIOVpx+elT638=
+			vnml2aXULCaO/ev0PSlkHr5WLW18MVEnGLXrnn+z3mw=
 			</data>
 		</dict>
 		<key>MovableChatFolderViewController.nib</key>
@@ -5347,6 +5355,20 @@
 			<key>hash2</key>
 			<data>
 			bsKqkRz6WtjWgLkfoirmzEEVkVc1O2bW3xLwUbHygb4=
+			</data>
+		</dict>
+		<key>TopMessageNotificationView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Nn7nOeY4Vym/1Acjh0BioUB8k6Tw9gboobuJ5O9U8xE=
+			</data>
+		</dict>
+		<key>TopNormalNotificationView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Qf1KQgvEUUug6C1730y0agAfFRFqFmXF95rv+NlTWFs=
 			</data>
 		</dict>
 		<key>TypingView.nib</key>

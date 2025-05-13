@@ -7952,6 +7952,20 @@
       },
       {
         "kind": "Import",
+        "name": "SwiftEntryKit",
+        "printedName": "SwiftEntryKit",
+        "declKind": "Import",
+        "moduleName": "GapoSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Kingfisher",
+        "printedName": "Kingfisher",
+        "declKind": "Import",
+        "moduleName": "GapoSDK"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -12700,17 +12714,43 @@
           {
             "kind": "Function",
             "name": "presentChat",
-            "printedName": "presentChat()",
+            "printedName": "presentChat(completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "Void",
                 "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:7GapoSDK0A4WorkC11presentChatyyF",
-            "mangledName": "$s7GapoSDK0A4WorkC11presentChatyyF",
+            "usr": "s:7GapoSDK0A4WorkC11presentChat10completionyyycSg_tF",
+            "mangledName": "$s7GapoSDK0A4WorkC11presentChat10completionyyycSg_tF",
             "moduleName": "GapoSDK",
             "declAttributes": [
               "AccessControl"
@@ -17487,6 +17527,23 @@
         "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "GapoSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "GapoSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GapoSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -30384,6 +30441,36 @@
             ],
             "usr": "s:14Differentiator16IdentifiableTypeP",
             "mangledName": "$s14Differentiator16IdentifiableTypeP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "KingfisherCompatible",
+            "printedName": "KingfisherCompatible",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "CompatibleType",
+                "printedName": "CompatibleType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Kingfisher",
+                    "printedName": "Kingfisher.Kingfisher<Swift.String>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:10KingfisherAAC"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Kingfisher0A10CompatibleP",
+            "mangledName": "$s10Kingfisher0A10CompatibleP"
           }
         ]
       },
@@ -30563,6 +30650,13 @@
             "printedName": "URLConvertible",
             "usr": "s:9Alamofire14URLConvertibleP",
             "mangledName": "$s9Alamofire14URLConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Resource",
+            "printedName": "Resource",
+            "usr": "s:10Kingfisher8ResourceP",
+            "mangledName": "$s10Kingfisher8ResourceP"
           },
           {
             "kind": "Conformance",
@@ -31960,6 +32054,36 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "KingfisherCompatible",
+            "printedName": "KingfisherCompatible",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "CompatibleType",
+                "printedName": "CompatibleType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Kingfisher",
+                    "printedName": "Kingfisher.Kingfisher<UIKit.UIImageView>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImageView",
+                        "printedName": "UIKit.UIImageView",
+                        "usr": "c:objc(cs)UIImageView"
+                      }
+                    ],
+                    "usr": "s:10KingfisherAAC"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Kingfisher0A10CompatibleP",
+            "mangledName": "$s10Kingfisher0A10CompatibleP"
           }
         ]
       },
@@ -32696,6 +32820,36 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "KingfisherCompatible",
+            "printedName": "KingfisherCompatible",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "CompatibleType",
+                "printedName": "CompatibleType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Kingfisher",
+                    "printedName": "Kingfisher.Kingfisher<UIKit.UIButton>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIButton",
+                        "printedName": "UIKit.UIButton",
+                        "usr": "c:objc(cs)UIButton"
+                      }
+                    ],
+                    "usr": "s:10KingfisherAAC"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Kingfisher0A10CompatibleP",
+            "mangledName": "$s10Kingfisher0A10CompatibleP"
           }
         ]
       },
@@ -33240,6 +33394,28 @@
             ],
             "usr": "s:7RxCocoa16KVORepresentableP",
             "mangledName": "$s7RxCocoa16KVORepresentableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "KingfisherCompatible",
+            "printedName": "KingfisherCompatible",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "CompatibleType",
+                "printedName": "CompatibleType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGSizeProxy",
+                    "printedName": "Kingfisher.CGSizeProxy",
+                    "usr": "s:10Kingfisher11CGSizeProxyV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Kingfisher0A10CompatibleP",
+            "mangledName": "$s10Kingfisher0A10CompatibleP"
           },
           {
             "kind": "Conformance",
@@ -56160,14 +56336,14 @@
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/RemoteNotiManager.swift",
       "kind": "StringLiteral",
-      "offset": 145,
+      "offset": 184,
       "length": 11,
       "value": "\"gp_single\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/RemoteNotiManager.swift",
       "kind": "StringLiteral",
-      "offset": 185,
+      "offset": 224,
       "length": 20,
       "value": "\"mention_on_comment\""
     },
@@ -58239,21 +58415,21 @@
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoLivekit\/Login\/SampleLoginController.swift",
       "kind": "StringLiteral",
-      "offset": 3484,
+      "offset": 3483,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoLivekit\/Login\/SampleLoginController.swift",
       "kind": "StringLiteral",
-      "offset": 3530,
+      "offset": 3529,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoLivekit\/Login\/SampleLoginController.swift",
       "kind": "StringLiteral",
-      "offset": 3577,
+      "offset": 3576,
       "length": 2,
       "value": "\"\""
     },
@@ -61949,7 +62125,14 @@
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/Managers\/ChatManager.swift",
       "kind": "StringLiteral",
-      "offset": 7475,
+      "offset": 7451,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/Managers\/ChatManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7474,
       "length": 2,
       "value": "\"\""
     },
@@ -61957,13 +62140,6 @@
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/Managers\/ChatManager.swift",
       "kind": "StringLiteral",
       "offset": 7498,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/Managers\/ChatManager.swift",
-      "kind": "StringLiteral",
-      "offset": 7522,
       "length": 2,
       "value": "\"\""
     },

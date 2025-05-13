@@ -29,6 +29,7 @@ import Foundation
 import GameController
 import ImageIO
 import Intents
+import Kingfisher
 import LiveKitClient
 import LiveKitWebRTC
 import Lottie
@@ -60,6 +61,7 @@ import SkeletonView
 import Swift
 import RxCocoa.Swift
 import RxSwift.Swift
+import SwiftEntryKit
 import SwiftUI
 import UIKit.UIColor
 import UIKit.UIGestureRecognizerSubclass
@@ -133,7 +135,7 @@ extension UIKit.UIViewController {
   public func handleNotification(info: [Swift.String : Any])
   public func pushChat()
   public func openLogin()
-  public func presentChat()
+  public func presentChat(completion: (() -> Swift.Void)? = nil)
   public func showIncomingCall(payload: [Swift.String : Any], completion: @escaping () -> Swift.Void)
   public func logout()
   public func getUnreadCount(completion: @escaping (Swift.Int) -> Swift.Void)
