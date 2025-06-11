@@ -42,7 +42,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		2QntiV9kOpRPlRH0KcHIG7qRsHk=
+		5plZE+XekzFLXOgZPYr+GqnXKlA=
 		</data>
 		<key>AudioRecordingView.nib</key>
 		<data>
@@ -626,7 +626,7 @@
 		</data>
 		<key>GPTutorialPopupView.nib</key>
 		<data>
-		coC9Oghvg6MaWYfLosbUFZsdGLo=
+		+Jap8rX5ZkhKyVlQoHwcAhBEpoE=
 		</data>
 		<key>GPUserChartInfoView.nib</key>
 		<data>
@@ -686,7 +686,7 @@
 		</data>
 		<key>GroupChatSettingLibraryTableViewCell.nib</key>
 		<data>
-		ZKKRX5DVXLnpRgpI8PuknKLcWYk=
+		ii8Xg9/+LLcuB3r6/xA6TwoD+ss=
 		</data>
 		<key>GroupChatSettingSecurityLinkCell.nib</key>
 		<data>
@@ -766,7 +766,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7oTjpSWhEWdSO03KGE2Tw3LA5IE=
+		/iGq3gcowb9RZxmPx/V2V2mOvkk=
 		</data>
 		<key>InviteUserEmptyCell.nib</key>
 		<data>
@@ -866,7 +866,7 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		R1UwUQ45s0vXCqQJCOsOi9w1GUc=
+		labTi1JDoKi+PYFrOpMhgsNtDKY=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -882,7 +882,7 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Y8z6KGG+OGse7p8fgLy4IILhLd8=
+		LikNMmCyGdfYV4tvwVd5YROXVEo=
 		</data>
 		<key>MovableChatFolderViewController.nib</key>
 		<data>
@@ -1401,7 +1401,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T+P5jGeamuTw61VwDLnIKISUZWU=
+			gsKkt8SyjTSaSmpF0VJCiYzWlpE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3103,7 +3103,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jOdzFQu2ZORU3mLMNsHJ2lvlnoU=
+			Bm0it+Hzu/tpPGAy0USfPpJh1nc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3178,7 +3178,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CYf9W3zqxYXbaVJ/QxAahvdZv5bNdbLpSWuSDixkTQg=
+			cu/VU0OWs91jkUdSJVig/v5cd65cNJnnnkcNPZG9zOY=
 			</data>
 		</dict>
 		<key>AudioRecordingView.nib</key>
@@ -4200,7 +4200,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bawy7XTRbQpr1bnBMbgQuU96xbjL4eN3Kp9oIwYX0G0=
+			c8ifxaME4oAo/dDgc0trqjf/qkHm94iIgFixwVhwXkI=
 			</data>
 		</dict>
 		<key>GPUserChartInfoView.nib</key>
@@ -4305,7 +4305,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5EGOsOf8rNyvos3gBJbwPGRmCjnJcCifmeGvykCooOs=
+			/mwpxTkVd2+Cs+EZ7iqg0HaDVEXezMOwTWAeLje8k3I=
 			</data>
 		</dict>
 		<key>GroupChatSettingSecurityLinkCell.nib</key>
@@ -4613,7 +4613,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gaXUZrEdeDG0htWuL5/mKMfotkUwlSOy01Q1ssxJSTM=
+			iFNwBui9ymDx/x1zVZJZMMl4UtO8CIiv4Xz7mRceVnA=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -4641,7 +4641,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tO4qsmZIM2hJc6H3FiUQVygvY/YyO7/Wbg3+njBxwp4=
+			R4Q3JYcM7YjGQTAWOSdp0nWm4cITE6MZJLmURhxk49c=
 			</data>
 		</dict>
 		<key>MovableChatFolderViewController.nib</key>
@@ -5539,7 +5539,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ynXSRw4gLB+4y7GfLVNpNeBDnlI521jthMkgwvTu3r4=
+			0HLWKnoKA7fdt0eE+r+2KF8kE3nPNkT+3easRSxHmhM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -8504,7 +8504,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7fXRhP6aUofS1RYzhEnE0wtYQVT1wcq8Q1F5mvEY8+Q=
+			4zU7poI3wLNtl7DlvEcOxr5Gi28lDT1C1vNFJY4Hrvw=
 			</data>
 			<key>optional</key>
 			<true/>

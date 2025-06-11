@@ -42,7 +42,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		2QntiV9kOpRPlRH0KcHIG7qRsHk=
+		5plZE+XekzFLXOgZPYr+GqnXKlA=
 		</data>
 		<key>AudioRecordingView.nib</key>
 		<data>
@@ -626,7 +626,7 @@
 		</data>
 		<key>GPTutorialPopupView.nib</key>
 		<data>
-		coC9Oghvg6MaWYfLosbUFZsdGLo=
+		+Jap8rX5ZkhKyVlQoHwcAhBEpoE=
 		</data>
 		<key>GPUserChartInfoView.nib</key>
 		<data>
@@ -686,7 +686,7 @@
 		</data>
 		<key>GroupChatSettingLibraryTableViewCell.nib</key>
 		<data>
-		ZKKRX5DVXLnpRgpI8PuknKLcWYk=
+		ii8Xg9/+LLcuB3r6/xA6TwoD+ss=
 		</data>
 		<key>GroupChatSettingSecurityLinkCell.nib</key>
 		<data>
@@ -766,7 +766,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		gUaqRtQa6dmeYA6Sl2XF6dgvf/c=
+		MHGMliHFA03b0RI+OxMVGWhdfSU=
 		</data>
 		<key>InviteUserEmptyCell.nib</key>
 		<data>
@@ -866,7 +866,7 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		KAN5MNtRaVUfhALZ5Z3lAuG/3/g=
+		mFW4hYfEVq/Gu4ip8XWWOr7i/hw=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -882,11 +882,11 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		bCypDaVU3kJXq5H/Z+R7esOSzTY=
+		zc2h+YDv/8Ge7lrpqnwCrd31Rvs=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		KAN5MNtRaVUfhALZ5Z3lAuG/3/g=
+		mFW4hYfEVq/Gu4ip8XWWOr7i/hw=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -902,7 +902,7 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		EnP/QzZzdD95BBgmrW1muU7FMXc=
+		lCURT0uRbjjAKqr4k3F2G4ermcY=
 		</data>
 		<key>MovableChatFolderViewController.nib</key>
 		<data>
@@ -1421,7 +1421,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T+P5jGeamuTw61VwDLnIKISUZWU=
+			gsKkt8SyjTSaSmpF0VJCiYzWlpE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3123,7 +3123,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jOdzFQu2ZORU3mLMNsHJ2lvlnoU=
+			Bm0it+Hzu/tpPGAy0USfPpJh1nc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3198,7 +3198,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CYf9W3zqxYXbaVJ/QxAahvdZv5bNdbLpSWuSDixkTQg=
+			cu/VU0OWs91jkUdSJVig/v5cd65cNJnnnkcNPZG9zOY=
 			</data>
 		</dict>
 		<key>AudioRecordingView.nib</key>
@@ -4220,7 +4220,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bawy7XTRbQpr1bnBMbgQuU96xbjL4eN3Kp9oIwYX0G0=
+			c8ifxaME4oAo/dDgc0trqjf/qkHm94iIgFixwVhwXkI=
 			</data>
 		</dict>
 		<key>GPUserChartInfoView.nib</key>
@@ -4325,7 +4325,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5EGOsOf8rNyvos3gBJbwPGRmCjnJcCifmeGvykCooOs=
+			/mwpxTkVd2+Cs+EZ7iqg0HaDVEXezMOwTWAeLje8k3I=
 			</data>
 		</dict>
 		<key>GroupChatSettingSecurityLinkCell.nib</key>
@@ -4633,7 +4633,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZVfmMwQMc+kjtGBCiIHU5dl0DhSGGS3E221auNYVJKI=
+			eWB6rCoqv2wnKB3uOQ04MNq51ozRuj/NmwYo2lZQLic=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -4661,14 +4661,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1OgUz8v6ZKxizQpxvo61GDal83bA/7azlAl1aJSAiNU=
+			pZOC4W+Hn61ghsOr7lpl5xqm3qM6+D6UMA6SHIKAb94=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZVfmMwQMc+kjtGBCiIHU5dl0DhSGGS3E221auNYVJKI=
+			eWB6rCoqv2wnKB3uOQ04MNq51ozRuj/NmwYo2lZQLic=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -4696,7 +4696,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vnml2aXULCaO/ev0PSlkHr5WLW18MVEnGLXrnn+z3mw=
+			3+lVW7PEqCw9wpp7ZjIhE1DB6Xd/esYtA6/R1GaESYk=
 			</data>
 		</dict>
 		<key>MovableChatFolderViewController.nib</key>
@@ -5594,7 +5594,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ynXSRw4gLB+4y7GfLVNpNeBDnlI521jthMkgwvTu3r4=
+			0HLWKnoKA7fdt0eE+r+2KF8kE3nPNkT+3easRSxHmhM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -8559,7 +8559,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7fXRhP6aUofS1RYzhEnE0wtYQVT1wcq8Q1F5mvEY8+Q=
+			4zU7poI3wLNtl7DlvEcOxr5Gi28lDT1C1vNFJY4Hrvw=
 			</data>
 			<key>optional</key>
 			<true/>

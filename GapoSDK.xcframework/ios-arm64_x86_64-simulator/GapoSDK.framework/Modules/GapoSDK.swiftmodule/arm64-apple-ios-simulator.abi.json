@@ -19379,6 +19379,23 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GapoSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SDWebImage",
+        "printedName": "SDWebImage",
+        "declKind": "Import",
+        "moduleName": "GapoSDK"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -37931,13 +37948,6 @@
       "value": "\"workspace_id\""
     },
     {
-      "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPSharingFlow\/Managers\/GPWebPreviewFileController.swift",
-      "kind": "Array",
-      "offset": 4222,
-      "length": 242,
-      "value": "[\"dl-f.gapowork.vn\", \"dl-i.gapowork.vn\", \"dl-v.gapowork.vn\", \"dl-f-stg.gapowork.vn\", \"dl-i-stg.gapowork.vn\", \"dl-v-stg.gapowork.vn\", \"dl-f-uat.gapowork.vn\", \"dl-i-uat.gapowork.vn\", \"dl-v-uat.gapowork.vn\"]"
-    },
-    {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/ChatDetail\/GroupChatSetting\/MediaCollection\/Collection\/Cells\/ChatVideoCollectionCell.swift",
       "kind": "StringLiteral",
       "offset": 298,
@@ -43869,315 +43879,315 @@
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 38631,
+      "offset": 38500,
       "length": 32,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 38645,
+      "offset": 38514,
       "length": 1,
       "value": "\"\/timekeeping\/v1.0\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 38727,
+      "offset": 38596,
       "length": 32,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 38741,
+      "offset": 38610,
       "length": 1,
       "value": "\"\/timekeeping\/v2.0\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 38824,
+      "offset": 38693,
       "length": 11,
       "value": "\"\/check\/in\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 38899,
+      "offset": 38768,
       "length": 12,
       "value": "\"\/check\/out\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 38975,
+      "offset": 38844,
       "length": 17,
       "value": "\"\/record\/my-data\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 39056,
+      "offset": 38925,
       "length": 13,
       "value": "\"\/check\/data\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 39133,
+      "offset": 39002,
       "length": 10,
       "value": "\"\/setting\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 39207,
+      "offset": 39076,
       "length": 32,
       "value": "\"approval-request\/calc-work-off\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 39303,
+      "offset": 39172,
       "length": 46,
       "value": "\"approval-request\/check-come-late-leave-early\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 39411,
+      "offset": 39280,
       "length": 34,
       "value": "\"approval-request\/check-over-time\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 39542,
+      "offset": 39411,
       "length": 29,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 39556,
+      "offset": 39425,
       "length": 1,
       "value": "\"\/approval\/v3.0\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 39635,
+      "offset": 39504,
       "length": 29,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 39649,
+      "offset": 39518,
       "length": 1,
       "value": "\"\/approval\/v4.1\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 39729,
+      "offset": 39598,
       "length": 16,
       "value": "\"\/approval-form\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 39809,
+      "offset": 39678,
       "length": 49,
       "value": "\"\/approval-request\/{approval_request_id}\/approve\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 39922,
+      "offset": 39791,
       "length": 48,
       "value": "\"\/approval-request\/{approval_request_id}\/cancel\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 40034,
+      "offset": 39903,
       "length": 41,
       "value": "\"\/approval-request\/{approval_request_id}\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 40139,
+      "offset": 40008,
       "length": 28,
       "value": "\"\/common\/calculate-duration\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 40231,
+      "offset": 40100,
       "length": 20,
       "value": "\"\/api\/request\/forms\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 40315,
+      "offset": 40184,
       "length": 27,
       "value": "\"\/api\/request\/recent_forms\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 40406,
+      "offset": 40275,
       "length": 22,
       "value": "\"api\/admin\/forms\/{id}\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 40492,
+      "offset": 40361,
       "length": 19,
       "value": "\"api\/request\/setup\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 40575,
+      "offset": 40444,
       "length": 18,
       "value": "\"api\/request\/{id}\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 40657,
+      "offset": 40526,
       "length": 18,
       "value": "\"api\/request\/{id}\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 40739,
+      "offset": 40608,
       "length": 14,
       "value": "\"api\/request\/\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 40817,
+      "offset": 40686,
       "length": 23,
       "value": "\"api\/request\/last_edit\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 40904,
+      "offset": 40773,
       "length": 21,
       "value": "\"api\/request\/approve\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 40989,
+      "offset": 40858,
       "length": 50,
       "value": "\"api\/request\/{id}\/advance-flow\/{state_id}\/approve\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 41103,
+      "offset": 40972,
       "length": 30,
       "value": "\"api\/request\/{id}\/thread_chat\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 41197,
+      "offset": 41066,
       "length": 16,
       "value": "\"api\/signature\/\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 41277,
+      "offset": 41146,
       "length": 26,
       "value": "\"\/api\/request\/{id}\/cancel\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 41367,
+      "offset": 41236,
       "length": 28,
       "value": "\"api\/request\/{id}\/requester\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 41459,
+      "offset": 41328,
       "length": 38,
       "value": "\"api\/request\/{id}\/watchers\/{state_id}\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 41561,
+      "offset": 41430,
       "length": 13,
       "value": "\"api\/comment\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 41638,
+      "offset": 41507,
       "length": 18,
       "value": "\"api\/comment\/{id}\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 41720,
+      "offset": 41589,
       "length": 31,
       "value": "\"api\/request\/{id}\/participants\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 41815,
+      "offset": 41684,
       "length": 27,
       "value": "\"api\/request\/{id}\/activity\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 41906,
+      "offset": 41775,
       "length": 38,
       "value": "\"api\/request\/{id}\/workflow\/{state_id}\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 42008,
+      "offset": 41877,
       "length": 40,
       "value": "\"api\/request\/{id}\/activities\/{state_id}\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 42112,
+      "offset": 41981,
       "length": 34,
       "value": "\"api\/request\/{id}\/logs\/{state_id}\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 42210,
+      "offset": 42079,
       "length": 38,
       "value": "\"\/api\/request\/{id}\/approve\/{state_id}\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Network\/Domain.swift",
       "kind": "StringLiteral",
-      "offset": 42312,
+      "offset": 42181,
       "length": 24,
       "value": "\"api\/request\/categories\""
     },
@@ -45437,21 +45447,21 @@
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/ChatDetail\/MessageContainer\/ChatContainerVC\/ChatContainerVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3603,
+      "offset": 3701,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/ChatDetail\/MessageContainer\/ChatContainerVC\/ChatContainerVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3713,
+      "offset": 3811,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/ChatDetail\/MessageContainer\/ChatContainerVC\/ChatContainerVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3873,
+      "offset": 3971,
       "length": 2,
       "value": "48"
     },
@@ -52086,400 +52096,393 @@
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
-      "kind": "StringLiteral",
-      "offset": 7676,
-      "length": 9,
-      "value": "\"#28526E\""
-    },
-    {
-      "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 7781,
+      "offset": 7821,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 7793,
+      "offset": 7833,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 7842,
+      "offset": 7882,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 7889,
+      "offset": 7929,
       "length": 2,
       "value": "28"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 7946,
+      "offset": 7986,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 7958,
+      "offset": 7998,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8016,
+      "offset": 8056,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8028,
+      "offset": 8068,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8090,
+      "offset": 8130,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8102,
+      "offset": 8142,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8151,
+      "offset": 8191,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8232,
+      "offset": 8272,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8244,
+      "offset": 8284,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8299,
+      "offset": 8339,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8397,
+      "offset": 8437,
       "length": 3,
       "value": "260"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8410,
+      "offset": 8450,
       "length": 2,
       "value": "64"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8472,
+      "offset": 8512,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8484,
+      "offset": 8524,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "FloatLiteral",
-      "offset": 8581,
+      "offset": 8621,
       "length": 4,
       "value": "10.0"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8637,
+      "offset": 8677,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8690,
+      "offset": 8730,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "FloatLiteral",
-      "offset": 8738,
+      "offset": 8778,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8833,
+      "offset": 8873,
       "length": 3,
       "value": "260"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8952,
+      "offset": 8992,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8961,
+      "offset": 9001,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8973,
+      "offset": 9013,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 8983,
+      "offset": 9023,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9063,
+      "offset": 9103,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9072,
+      "offset": 9112,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9084,
+      "offset": 9124,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9094,
+      "offset": 9134,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9174,
+      "offset": 9214,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9183,
+      "offset": 9223,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9195,
+      "offset": 9235,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9205,
+      "offset": 9245,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9298,
+      "offset": 9338,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9307,
+      "offset": 9347,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9319,
+      "offset": 9359,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9329,
+      "offset": 9369,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9403,
+      "offset": 9443,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9412,
+      "offset": 9452,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9424,
+      "offset": 9464,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9434,
+      "offset": 9474,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9536,
+      "offset": 9576,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9546,
+      "offset": 9586,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9558,
+      "offset": 9598,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9569,
+      "offset": 9609,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9639,
+      "offset": 9679,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9649,
+      "offset": 9689,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9661,
+      "offset": 9701,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9672,
+      "offset": 9712,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9774,
+      "offset": 9814,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9784,
+      "offset": 9824,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9796,
+      "offset": 9836,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "IntegerLiteral",
-      "offset": 9807,
+      "offset": 9847,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GapoMessage\/Extensions\/MKMessageConstant.swift",
       "kind": "FloatLiteral",
-      "offset": 9900,
+      "offset": 9940,
       "length": 3,
       "value": "2.0"
     },
@@ -65128,28 +65131,28 @@
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/ChatDetail\/SubThread\/SubThreadChatViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7686,
+      "offset": 7424,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/ChatDetail\/SubThread\/SubThreadChatViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7877,
+      "offset": 7615,
       "length": 18,
       "value": "\"ic24-line15-gear\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/ChatDetail\/SubThread\/SubThreadChatViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7961,
+      "offset": 7699,
       "length": 2,
       "value": "44"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/ChatDetail\/SubThread\/SubThreadChatViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8013,
+      "offset": 7751,
       "length": 2,
       "value": "44"
     },
@@ -74499,6 +74502,34 @@
       "value": "\"\""
     },
     {
+      "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Managers\/GapoTransfer\/SecureUploadConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 259,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Managers\/GapoTransfer\/SecureUploadConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 286,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Managers\/GapoTransfer\/SecureUploadConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 779,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Managers\/GapoTransfer\/SecureUploadConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 807,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPComponents\/DTMvvm\/Animators\/AnimatorDelegate.swift",
       "kind": "BooleanLiteral",
       "offset": 1087,
@@ -79716,42 +79747,28 @@
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/ChatDetail\/Settings\/PersonalChatSettingHeaderCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 1123,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/ChatDetail\/Settings\/PersonalChatSettingHeaderCell.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1233,
+      "offset": 1235,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/ChatDetail\/Settings\/PersonalChatSettingHeaderCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 1311,
+      "offset": 1313,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/ChatDetail\/Settings\/PersonalChatSettingHeaderCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 1360,
+      "offset": 1411,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/ChatDetail\/Settings\/PersonalChatSettingHeaderCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 1407,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/ChatDetail\/Settings\/PersonalChatSettingHeaderCell.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1455,
+      "offset": 1459,
       "length": 4,
       "value": "true"
     },
@@ -80122,7 +80139,7 @@
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPChat\/ChatDetail\/GroupChatSetting\/GroupChatMember\/GroupChatMemberViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 8167,
+      "offset": 7744,
       "length": 2,
       "value": "\"\""
     },
@@ -81759,15 +81776,8 @@
     },
     {
       "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Managers\/Transporter\/GTPDownloadTask.swift",
-      "kind": "Array",
-      "offset": 475,
-      "length": 282,
-      "value": "[\"dl-f.gapowork.vn\", \"dl-i.gapowork.vn\", \"dl-v.gapowork.vn\", \"dl-f-stg.gapowork.vn\", \"dl-i-stg.gapowork.vn\", \"dl-v-stg.gapowork.vn\", \"dl-f-uat.gapowork.vn\", \"dl-i-uat.gapowork.vn\", \"dl-v-uat.gapowork.vn\"]"
-    },
-    {
-      "filePath": "\/Users\/trungnguyen\/Data\/workspace\/repo\/gaposdk\/SDK\/GapoSDK\/GPServices\/Managers\/Transporter\/GTPDownloadTask.swift",
       "kind": "BooleanLiteral",
-      "offset": 2033,
+      "offset": 1928,
       "length": 5,
       "value": "false"
     },
@@ -97398,1351 +97408,1358 @@
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 71304,
+      "offset": 71285,
+      "length": 20,
+      "value": "\"ic24-line15-unlock\""
+    },
+    {
+      "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 71468,
       "length": 30,
       "value": "\"ic24-line20-checkmark-circle\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 71496,
+      "offset": 71660,
       "length": 29,
       "value": "\"ic24-line20-magnifyingglass\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 71648,
+      "offset": 71812,
       "length": 9,
       "value": "\"ic24_up\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 71799,
+      "offset": 71963,
       "length": 19,
       "value": "\"ic28-fill-2square\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 71958,
+      "offset": 72122,
       "length": 18,
       "value": "\"ic28-fill-camera\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 72134,
+      "offset": 72298,
       "length": 28,
       "value": "\"ic28-fill-cloud-arrow-down\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 72298,
+      "offset": 72462,
       "length": 16,
       "value": "\"ic32-fill-lock\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 72471,
+      "offset": 72635,
       "length": 27,
       "value": "\"ic32-line15-3people-slash\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 72644,
+      "offset": 72808,
       "length": 21,
       "value": "\"ic48-line15-banmark\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 72822,
+      "offset": 72986,
       "length": 27,
       "value": "\"ic48-line15-pen-signature\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 73008,
+      "offset": 73172,
       "length": 28,
       "value": "\"ic64-fill-checkmark-circle\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 73189,
+      "offset": 73353,
       "length": 25,
       "value": "\"ic64-fill-pen-signature\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 73365,
+      "offset": 73529,
       "length": 24,
       "value": "\"ic64-fill-xmark-circle\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 73557,
+      "offset": 73721,
       "length": 33,
       "value": "\"ic64-line15-3people-square-plus\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 73762,
+      "offset": 73926,
       "length": 35,
       "value": "\"ic64-line15-camera-slash-negative\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 73941,
+      "offset": 74105,
       "length": 20,
       "value": "\"ic64-line15-couple\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 74120,
+      "offset": 74284,
       "length": 28,
       "value": "\"ic64-line15-file-paperclip\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 74311,
+      "offset": 74475,
       "length": 30,
       "value": "\"ic64-line15-sidecamera-slash\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 74483,
+      "offset": 74647,
       "length": 19,
       "value": "\"ic64-line15-trash\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 74656,
+      "offset": 74820,
       "length": 25,
       "value": "\"ic64-line15-warningmark\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 74832,
+      "offset": 74996,
       "length": 24,
       "value": "\"ic64_create_group_chat\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 74987,
+      "offset": 75151,
       "length": 13,
       "value": "\"ic_activity\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 75142,
+      "offset": 75306,
       "length": 19,
       "value": "\"ic_add_department\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 75320,
+      "offset": 75484,
       "length": 28,
       "value": "\"ic_add_department_approval\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 75495,
+      "offset": 75659,
       "length": 22,
       "value": "\"ic_add_file_approval\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 75666,
+      "offset": 75830,
       "length": 23,
       "value": "\"ic_add_image_approval\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 75836,
+      "offset": 76000,
       "length": 22,
       "value": "\"ic_add_user_approval\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 75996,
+      "offset": 76160,
       "length": 17,
       "value": "\"ic_add_watchers\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 76155,
+      "offset": 76319,
       "length": 19,
       "value": "\"ic_animals_nature\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 76316,
+      "offset": 76480,
       "length": 19,
       "value": "\"ic_approva_system\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 76477,
+      "offset": 76641,
       "length": 19,
       "value": "\"ic_approval_Empty\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 76649,
+      "offset": 76813,
       "length": 25,
       "value": "\"ic_approval_action_more\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 76820,
+      "offset": 76984,
       "length": 21,
       "value": "\"ic_approval_approve\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 76985,
+      "offset": 77149,
       "length": 20,
       "value": "\"ic_approval_cancel\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 77164,
+      "offset": 77328,
       "length": 28,
       "value": "\"ic_approval_checkbox_check\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 77355,
+      "offset": 77519,
       "length": 30,
       "value": "\"ic_approval_checkbox_uncheck\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 77544,
+      "offset": 77708,
       "length": 28,
       "value": "\"ic_approval_collapse_green\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 77716,
+      "offset": 77880,
       "length": 20,
       "value": "\"ic_approval_handle\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 77887,
+      "offset": 78051,
       "length": 24,
       "value": "\"ic_approval_info_green\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 78062,
+      "offset": 78226,
       "length": 24,
       "value": "\"ic_approval_not_active\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 78236,
+      "offset": 78400,
       "length": 23,
       "value": "\"ic_approval_pictogram\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 78412,
+      "offset": 78576,
       "length": 25,
       "value": "\"ic_approval_radio_check\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 78594,
+      "offset": 78758,
       "length": 27,
       "value": "\"ic_approval_radio_uncheck\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 78765,
+      "offset": 78929,
       "length": 20,
       "value": "\"ic_approval_submit\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 78933,
+      "offset": 79097,
       "length": 22,
       "value": "\"ic_approval_transfer\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 79101,
+      "offset": 79265,
       "length": 21,
       "value": "\"ic_audiocall_hangup\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 79272,
+      "offset": 79436,
       "length": 23,
       "value": "\"ic_audiocall_incoming\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 79445,
+      "offset": 79609,
       "length": 23,
       "value": "\"ic_audiocall_misscall\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 79618,
+      "offset": 79782,
       "length": 23,
       "value": "\"ic_audiocall_outgoing\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 79789,
+      "offset": 79953,
       "length": 22,
       "value": "\"ic_authen_changepass\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 79939,
+      "offset": 80103,
       "length": 12,
       "value": "\"ic_back_24\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 80104,
+      "offset": 80268,
       "length": 25,
       "value": "\"ic_back_shadow_template\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 80269,
+      "offset": 80433,
       "length": 18,
       "value": "\"ic_back_template\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 80425,
+      "offset": 80589,
       "length": 17,
       "value": "\"ic_bot_shortcut\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 80590,
+      "offset": 80754,
       "length": 22,
       "value": "\"ic_cb_indeterminated\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 80777,
+      "offset": 80941,
       "length": 31,
       "value": "\"ic_cb_indeterminated_disabled\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 80944,
+      "offset": 81108,
       "length": 16,
       "value": "\"ic_cb_selected\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 81113,
+      "offset": 81277,
       "length": 25,
       "value": "\"ic_cb_selected_disabled\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 81278,
+      "offset": 81442,
       "length": 18,
       "value": "\"ic_cb_unselected\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 81453,
+      "offset": 81617,
       "length": 27,
       "value": "\"ic_cb_unselected_disabled\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 81629,
+      "offset": 81793,
       "length": 23,
       "value": "\"ic_chat_folder_camera\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 81823,
+      "offset": 81987,
       "length": 35,
       "value": "\"ic_chat_folder_check_box_selected\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 82033,
+      "offset": 82197,
       "length": 37,
       "value": "\"ic_chat_folder_check_box_unselected\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 82217,
+      "offset": 82381,
       "length": 22,
       "value": "\"ic_chat_folder_close\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 82386,
+      "offset": 82550,
       "length": 22,
       "value": "\"ic_chat_folder_empty\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 82568,
+      "offset": 82732,
       "length": 29,
       "value": "\"ic_chat_folder_empty_avatar\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 82755,
+      "offset": 82919,
       "length": 28,
       "value": "\"ic_chat_folder_move_folder\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 82934,
+      "offset": 83098,
       "length": 24,
       "value": "\"ic_chat_folder_reorder\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 83101,
+      "offset": 83265,
       "length": 20,
       "value": "\"ic_chat_folder_top\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 83259,
+      "offset": 83423,
       "length": 17,
       "value": "\"ic_chat_folders\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 83420,
+      "offset": 83584,
       "length": 20,
       "value": "\"ic_chatgroup_leave\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 83570,
+      "offset": 83734,
       "length": 13,
       "value": "\"ic_close_24\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 83715,
+      "offset": 83879,
       "length": 14,
       "value": "\"ic_close_red\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 83865,
+      "offset": 84029,
       "length": 16,
       "value": "\"ic_cross_white\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 84004,
+      "offset": 84168,
       "length": 9,
       "value": "\"ic_date\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 84140,
+      "offset": 84304,
       "length": 11,
       "value": "\"ic_delete\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 84283,
+      "offset": 84447,
       "length": 14,
       "value": "\"ic_drop_down\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 84434,
+      "offset": 84598,
       "length": 16,
       "value": "\"ic_emojiDelete\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 84575,
+      "offset": 84739,
       "length": 10,
       "value": "\"ic_empty\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 84723,
+      "offset": 84887,
       "length": 17,
       "value": "\"ic_empty_search\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 84881,
+      "offset": 85045,
       "length": 19,
       "value": "\"ic_file_down_grey\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 85025,
+      "offset": 85189,
       "length": 10,
       "value": "\"ic_flags\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 85169,
+      "offset": 85333,
       "length": 15,
       "value": "\"ic_food_drink\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 85310,
+      "offset": 85474,
       "length": 11,
       "value": "\"ic_gray_x\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 85477,
+      "offset": 85641,
       "length": 27,
       "value": "\"ic_guide_use_chat_folders\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 85640,
+      "offset": 85804,
       "length": 16,
       "value": "\"ic_header_down\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 85788,
+      "offset": 85952,
       "length": 14,
       "value": "\"ic_like_chat\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 85942,
+      "offset": 86106,
       "length": 18,
       "value": "\"ic_next_template\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 86107,
+      "offset": 86271,
       "length": 22,
       "value": "\"ic_noti_setting_edit\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 86258,
+      "offset": 86422,
       "length": 12,
       "value": "\"ic_objects\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 86415,
+      "offset": 86579,
       "length": 21,
       "value": "\"ic_page_role_editor\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 86580,
+      "offset": 86744,
       "length": 20,
       "value": "\"ic_pictogram_black\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 86744,
+      "offset": 86908,
       "length": 20,
       "value": "\"ic_pictogram_green\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 86906,
+      "offset": 87070,
       "length": 19,
       "value": "\"ic_pictogram_grey\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 87066,
+      "offset": 87230,
       "length": 19,
       "value": "\"ic_plus_mark_blue\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 87225,
+      "offset": 87389,
       "length": 18,
       "value": "\"ic_plus_template\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 87379,
+      "offset": 87543,
       "length": 16,
       "value": "\"ic_rd_selected\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 87548,
+      "offset": 87712,
       "length": 25,
       "value": "\"ic_rd_selected_disabled\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 87713,
+      "offset": 87877,
       "length": 18,
       "value": "\"ic_rd_unselected\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 87888,
+      "offset": 88052,
       "length": 27,
       "value": "\"ic_rd_unselected_disabled\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 88044,
+      "offset": 88208,
       "length": 12,
       "value": "\"ic_recents\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 88183,
+      "offset": 88347,
       "length": 11,
       "value": "\"ic_record\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 88323,
+      "offset": 88487,
       "length": 12,
       "value": "\"ic_reverse\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 88601,
+      "offset": 88765,
       "length": 14,
       "value": "\"ic_search_48\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 88768,
+      "offset": 88932,
       "length": 25,
       "value": "\"ic_search_bold_template\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 88937,
+      "offset": 89101,
       "length": 20,
       "value": "\"ic_search_template\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 89116,
+      "offset": 89280,
       "length": 28,
       "value": "\"ic_setting_shadow_template\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 89290,
+      "offset": 89454,
       "length": 21,
       "value": "\"ic_setting_template\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 89462,
+      "offset": 89626,
       "length": 24,
       "value": "\"ic_setting_template_18\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 89641,
+      "offset": 89805,
       "length": 26,
       "value": "\"ic_share_shadow_template\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 89809,
+      "offset": 89973,
       "length": 19,
       "value": "\"ic_share_template\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 89961,
+      "offset": 90125,
       "length": 14,
       "value": "\"ic_signatrue\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 90117,
+      "offset": 90281,
       "length": 19,
       "value": "\"ic_smileys_people\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 90265,
+      "offset": 90429,
       "length": 12,
       "value": "\"ic_symbols\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 90417,
+      "offset": 90581,
       "length": 18,
       "value": "\"ic_travel_places\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 90608,
+      "offset": 90772,
       "length": 36,
       "value": "\"ic_tutorial_long_press_chat_folder\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 90790,
+      "offset": 90954,
       "length": 21,
       "value": "\"ic_videocall_hangup\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 90961,
+      "offset": 91125,
       "length": 23,
       "value": "\"ic_videocall_incoming\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 91134,
+      "offset": 91298,
       "length": 23,
       "value": "\"ic_videocall_misscall\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 91307,
+      "offset": 91471,
       "length": 23,
       "value": "\"ic_videocall_outgoing\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 91470,
+      "offset": 91634,
       "length": 18,
       "value": "\"ic_view_watchers\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 91619,
+      "offset": 91783,
       "length": 13,
       "value": "\"ic_viewerHD\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 91767,
+      "offset": 91931,
       "length": 15,
       "value": "\"ico_anonymous\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 91928,
+      "offset": 92092,
       "length": 21,
       "value": "\"ico_anonymous_green\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 92087,
+      "offset": 92251,
       "length": 17,
       "value": "\"ico_arrow_right\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 92233,
+      "offset": 92397,
       "length": 12,
       "value": "\"ico_camera\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 92385,
+      "offset": 92549,
       "length": 18,
       "value": "\"ico_camera_green\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 92543,
+      "offset": 92707,
       "length": 18,
       "value": "\"ico_camera_white\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 92703,
+      "offset": 92867,
       "length": 19,
       "value": "\"ico_checkin_green\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 92862,
+      "offset": 93026,
       "length": 18,
       "value": "\"ico_circle_white\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 93022,
+      "offset": 93186,
       "length": 19,
       "value": "\"ico_comment_white\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 93170,
+      "offset": 93334,
       "length": 12,
       "value": "\"ico_delete\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 93318,
+      "offset": 93482,
       "length": 16,
       "value": "\"ico_menu_white\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 93470,
+      "offset": 93634,
       "length": 16,
       "value": "\"ico_more_white\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 93624,
+      "offset": 93788,
       "length": 17,
       "value": "\"ico_nav_friends\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 93785,
+      "offset": 93949,
       "length": 20,
       "value": "\"ico_newpost_camera\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 93949,
+      "offset": 94113,
       "length": 20,
       "value": "\"ico_newpost_images\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 94111,
+      "offset": 94275,
       "length": 19,
       "value": "\"ico_newpost_video\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 94266,
+      "offset": 94430,
       "length": 16,
       "value": "\"ico_noti_white\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 94420,
+      "offset": 94584,
       "length": 17,
       "value": "\"ico_pause_video\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 94575,
+      "offset": 94739,
       "length": 17,
       "value": "\"ico_photo_green\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 94715,
+      "offset": 94879,
       "length": 9,
       "value": "\"ico_pin\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 94860,
+      "offset": 95024,
       "length": 16,
       "value": "\"ico_play_video\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 95014,
+      "offset": 95178,
       "length": 17,
       "value": "\"ico_search_gray\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 95171,
+      "offset": 95335,
       "length": 18,
       "value": "\"ico_search_white\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 95327,
+      "offset": 95491,
       "length": 17,
       "value": "\"ico_share_white\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 95480,
+      "offset": 95644,
       "length": 16,
       "value": "\"ico_video_play\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 95647,
+      "offset": 95811,
       "length": 24,
       "value": "\"icon_chat_create_group\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 95819,
+      "offset": 95983,
       "length": 22,
       "value": "\"icon_chat_department\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 95999,
+      "offset": 96163,
       "length": 27,
       "value": "\"icon_chatgroup_actioncopy\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 96186,
+      "offset": 96350,
       "length": 28,
       "value": "\"icon_chatgroup_actionshare\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 96371,
+      "offset": 96535,
       "length": 27,
       "value": "\"icon_chatgroup_block_chat\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 96544,
+      "offset": 96708,
       "length": 21,
       "value": "\"icon_chatgroup_file\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 96724,
+      "offset": 96888,
       "length": 28,
       "value": "\"icon_chatgroup_goto_detail\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 96926,
+      "offset": 97090,
       "length": 36,
       "value": "\"icon_chatgroup_goto_detail_disable\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 97108,
+      "offset": 97272,
       "length": 21,
       "value": "\"icon_chatgroup_link\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 97283,
+      "offset": 97447,
       "length": 25,
       "value": "\"icon_chatgroup_nickname\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 97456,
+      "offset": 97620,
       "length": 22,
       "value": "\"icon_chatgroup_photo\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 97644,
+      "offset": 97808,
       "length": 31,
       "value": "\"icon_chatgroup_privacyprivate\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 97839,
+      "offset": 98003,
       "length": 30,
       "value": "\"icon_chatgroup_privacypublic\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 98017,
+      "offset": 98181,
       "length": 22,
       "value": "\"icon_chatgroup_share\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 98193,
+      "offset": 98357,
       "length": 25,
       "value": "\"icon_chatgroup_showuser\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 98366,
+      "offset": 98530,
       "length": 22,
       "value": "\"icon_chatgroup_video\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 98555,
+      "offset": 98719,
       "length": 32,
       "value": "\"icon_chatgroup_whitelist_admin\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 98750,
+      "offset": 98914,
       "length": 30,
       "value": "\"icon_chatgroup_whitelist_all\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 98914,
+      "offset": 99078,
       "length": 15,
       "value": "\"icon_close_wp\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 99091,
+      "offset": 99255,
       "length": 30,
       "value": "\"icon_emty_list_peding_thread\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 99270,
+      "offset": 99434,
       "length": 23,
       "value": "\"icon_emty_list_thread\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 99446,
+      "offset": 99610,
       "length": 25,
       "value": "\"icon_new_empty_approval\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 99618,
+      "offset": 99782,
       "length": 22,
       "value": "\"icon_pin_arrow_right\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 99770,
+      "offset": 99934,
       "length": 13,
       "value": "\"icon_say_hi\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 99927,
+      "offset": 100091,
       "length": 20,
       "value": "\"icon_search_friend\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 100091,
+      "offset": 100255,
       "length": 20,
       "value": "\"icon_thread_option\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 100268,
+      "offset": 100432,
       "length": 27,
       "value": "\"image-photo-gallery-album\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 100437,
+      "offset": 100601,
       "length": 19,
       "value": "\"img-empty-comment\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 100592,
+      "offset": 100756,
       "length": 16,
       "value": "\"img-empty-data\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 100753,
+      "offset": 100917,
       "length": 20,
       "value": "\"infinity_icon_norm\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 100918,
+      "offset": 101082,
       "length": 21,
       "value": "\"logo-chat-folder-80\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 101067,
+      "offset": 101231,
       "length": 12,
       "value": "\"ls_ic_send\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 101206,
+      "offset": 101370,
       "length": 11,
       "value": "\"menu_dots\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 101356,
+      "offset": 101520,
       "length": 17,
       "value": "\"monitor-mobbile\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 101522,
+      "offset": 101686,
       "length": 23,
       "value": "\"news-full-screen-icon\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 101685,
+      "offset": 101849,
       "length": 18,
       "value": "\"news-pause-video\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 101841,
+      "offset": 102005,
       "length": 17,
       "value": "\"news-play-video\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 102005,
+      "offset": 102169,
       "length": 22,
       "value": "\"over-lay-bottom-full\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 102164,
+      "offset": 102328,
       "length": 16,
       "value": "\"overlay-bottom\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 102309,
+      "offset": 102473,
       "length": 12,
       "value": "\"play-video\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 102461,
+      "offset": 102625,
       "length": 18,
       "value": "\"post-multi-group\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 102619,
+      "offset": 102783,
       "length": 18,
       "value": "\"seen-ava-default\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 102781,
+      "offset": 102945,
       "length": 20,
       "value": "\"sync-contact-guide\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 102950,
+      "offset": 103114,
       "length": 23,
       "value": "\"tick_viewed_icon_norm\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 103113,
+      "offset": 103277,
       "length": 18,
       "value": "\"video-top-header\""
     },
     {
       "filePath": "\/Users\/trungnguyen\/Library\/Developer\/Xcode\/DerivedData\/DevelopmentDemoApp-dsiuuupwjeoojacrpwzhvilsdnuj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/GapoSDK\/IntermediateBuildFilesPath\/GapoSDK.build\/Release-iphonesimulator\/GapoSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 103273,
+      "offset": 103437,
       "length": 19,
       "value": "\"warning_icon_norm\""
     }
