@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
   spec.name = "GapoSDK"
 
-  spec.version = "1.0.4"
+  spec.version = "1.0.5"
 
   spec.summary = "A description of Gapo SDK."
 
@@ -33,12 +33,12 @@ Pod::Spec.new do |spec|
   spec.dependency 'PureLayout', '3.1.9'
   spec.dependency 'FittedSheets', '2.6.1'
   spec.dependency 'Moya', '15.0.0'
-  spec.dependency 'lottie-ios', '3.5.0'
-  spec.dependency 'SVProgressHUD', '2.2.5'
+  spec.dependency 'lottie-ios', '4.4.0'
+  spec.dependency 'SVProgressHUD', '2.3.0'
   spec.dependency 'SkeletonView', '1.30.4'
   spec.dependency 'PromiseKit', '6.13.1'
   spec.dependency 'Parchment', '3.2.0'
   spec.dependency 'SwiftEntryKit', '2.0.0'
-  spec.dependency 'Kingfisher', '4.10.1'
+  spec.dependency 'Kingfisher', '7.10.0'
   
 end

@@ -30461,33 +30461,10 @@
           },
           {
             "kind": "Conformance",
-            "name": "KingfisherCompatible",
-            "printedName": "KingfisherCompatible",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "CompatibleType",
-                "printedName": "CompatibleType",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Kingfisher",
-                    "printedName": "Kingfisher.Kingfisher<Swift.String>",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:10KingfisherAAC"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:10Kingfisher0A10CompatibleP",
-            "mangledName": "$s10Kingfisher0A10CompatibleP"
+            "name": "KingfisherCompatibleValue",
+            "printedName": "KingfisherCompatibleValue",
+            "usr": "s:10Kingfisher0A15CompatibleValueP",
+            "mangledName": "$s10Kingfisher0A15CompatibleValueP"
           }
         ]
       },
@@ -32076,29 +32053,6 @@
             "kind": "Conformance",
             "name": "KingfisherCompatible",
             "printedName": "KingfisherCompatible",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "CompatibleType",
-                "printedName": "CompatibleType",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Kingfisher",
-                    "printedName": "Kingfisher.Kingfisher<UIKit.UIImageView>",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "UIImageView",
-                        "printedName": "UIKit.UIImageView",
-                        "usr": "c:objc(cs)UIImageView"
-                      }
-                    ],
-                    "usr": "s:10KingfisherAAC"
-                  }
-                ]
-              }
-            ],
             "usr": "s:10Kingfisher0A10CompatibleP",
             "mangledName": "$s10Kingfisher0A10CompatibleP"
           }
@@ -32842,29 +32796,6 @@
             "kind": "Conformance",
             "name": "KingfisherCompatible",
             "printedName": "KingfisherCompatible",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "CompatibleType",
-                "printedName": "CompatibleType",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Kingfisher",
-                    "printedName": "Kingfisher.Kingfisher<UIKit.UIButton>",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "UIButton",
-                        "printedName": "UIKit.UIButton",
-                        "usr": "c:objc(cs)UIButton"
-                      }
-                    ],
-                    "usr": "s:10KingfisherAAC"
-                  }
-                ]
-              }
-            ],
             "usr": "s:10Kingfisher0A10CompatibleP",
             "mangledName": "$s10Kingfisher0A10CompatibleP"
           }
@@ -33414,25 +33345,10 @@
           },
           {
             "kind": "Conformance",
-            "name": "KingfisherCompatible",
-            "printedName": "KingfisherCompatible",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "CompatibleType",
-                "printedName": "CompatibleType",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGSizeProxy",
-                    "printedName": "Kingfisher.CGSizeProxy",
-                    "usr": "s:10Kingfisher11CGSizeProxyV"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:10Kingfisher0A10CompatibleP",
-            "mangledName": "$s10Kingfisher0A10CompatibleP"
+            "name": "KingfisherCompatibleValue",
+            "printedName": "KingfisherCompatibleValue",
+            "usr": "s:10Kingfisher0A15CompatibleValueP",
+            "mangledName": "$s10Kingfisher0A15CompatibleValueP"
           },
           {
             "kind": "Conformance",
