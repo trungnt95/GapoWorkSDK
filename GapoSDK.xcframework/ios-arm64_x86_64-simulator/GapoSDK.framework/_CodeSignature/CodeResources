@@ -42,7 +42,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		5plZE+XekzFLXOgZPYr+GqnXKlA=
+		c5o9f5J7cmCYXs5u+vU/Zxs/NWE=
 		</data>
 		<key>AudioRecordingView.nib</key>
 		<data>
@@ -866,7 +866,7 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		mFW4hYfEVq/Gu4ip8XWWOr7i/hw=
+		lDGC7Psk28rBmf1abQAdFmQJjbw=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -882,11 +882,11 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zc2h+YDv/8Ge7lrpqnwCrd31Rvs=
+		Z0mpRHwLG41wukOvqa9fudzAs7A=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		mFW4hYfEVq/Gu4ip8XWWOr7i/hw=
+		lDGC7Psk28rBmf1abQAdFmQJjbw=
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -902,7 +902,7 @@
 		</data>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lCURT0uRbjjAKqr4k3F2G4ermcY=
+		qgFGH9sy+YrTEGR4RlhlNNvf4hU=
 		</data>
 		<key>MovableChatFolderViewController.nib</key>
 		<data>
@@ -3198,7 +3198,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cu/VU0OWs91jkUdSJVig/v5cd65cNJnnnkcNPZG9zOY=
+			2sjCGotyTqkoA9MMLaUgE5vVgihVufdXxr3aWL9a9dI=
 			</data>
 		</dict>
 		<key>AudioRecordingView.nib</key>
@@ -4633,7 +4633,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eWB6rCoqv2wnKB3uOQ04MNq51ozRuj/NmwYo2lZQLic=
+			M9bbGv/y/6w0DuXi5P1v/iFEcvmV1vTIbbQtbXKnFXY=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -4661,14 +4661,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pZOC4W+Hn61ghsOr7lpl5xqm3qM6+D6UMA6SHIKAb94=
+			rCs0CnE72f2riXm/lPykE6XUfMfoDWJ+wJifG9wicsA=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eWB6rCoqv2wnKB3uOQ04MNq51ozRuj/NmwYo2lZQLic=
+			M9bbGv/y/6w0DuXi5P1v/iFEcvmV1vTIbbQtbXKnFXY=
 			</data>
 		</dict>
 		<key>Modules/GapoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -4696,7 +4696,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3+lVW7PEqCw9wpp7ZjIhE1DB6Xd/esYtA6/R1GaESYk=
+			iRXJR8FD4YloswT1D05GdG+DjBx3uVyFus5gziwI2Dw=
 			</data>
 		</dict>
 		<key>MovableChatFolderViewController.nib</key>

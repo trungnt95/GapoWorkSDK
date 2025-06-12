@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
   spec.name = "GapoSDK"
 
-  spec.version = "1.0.3"
+  spec.version = "1.0.4"
 
   spec.summary = "A description of Gapo SDK."
 
